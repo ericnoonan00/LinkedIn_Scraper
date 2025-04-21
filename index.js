@@ -18,14 +18,6 @@ const URLS = new Map([
   ['Indeed', 'https://www.indeed.com/'],
 ])
 
-const RESULTS = new Map();
-
-/* -- MAIN -- */
-(async () => {
-  scrapeLinkedIn()
-})();
-
-
 // functions
 async function scrapeLinkedIn() {
   const browser = await chromium.launch({ headless: false });
@@ -41,9 +33,15 @@ async function scrapeLinkedIn() {
   for (let i = 0; i < 1; i++) {
 
     // search each query
+    // FILTERS:
+    // usa (location=United%20States)
+    // remote (f_WT=2)
+    // intern, entry, and associate levels
+    // past 24
     const searchQuery = SEARCHES[i];
     console.log(`Searching for: ${searchQuery}`);
-    const searchUrl = `${URLS.get('LinkedIn')}search/?keywords=${encodeURIComponent(searchQuery)}`;
+    // TODO: make it easier to change filters (make a filter obj or something)
+    const searchUrl = `${URLS.get('LinkedIn')}search/?keywords=${encodeURIComponent(searchQuery)}&f_TPR=r86400&f_WT=2&location=${encodeURIComponent("United States")}&f_E=1%2C2%2C3&origin=JOB_SEARCH_PAGE_JOB_FILTER`;
     await page.goto(searchUrl);
 
     // get the list of all the results
@@ -82,5 +80,10 @@ async function scrapeLinkedIn() {
   }
   // console.log(LinkedInLINKS);
 
-  await browser.close();
+  // await browser.close();
 }
+
+/* -- MAIN -- */
+(async () => {
+  scrapeLinkedIn()
+})();

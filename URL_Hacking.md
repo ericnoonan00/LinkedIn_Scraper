@@ -36,7 +36,10 @@
   - DD (Date posted)
   - R (Relevance)
 
-9. f_E=2
+9. f_WT=2
+> Sorts results by remote work
+
+10. f_E=2
 > filters by Entry level
   > f_E=1:      **internship**
 > for multiple experience levels, put %2C in between the numbers
@@ -55,6 +58,9 @@ https://www.linkedin.com/jobs/search/?keywords=QA%20Engineer&f_TPR=r3600&locatio
 > filters by Location = USA
 > filters by Experience Level = entry and internship
 
-https://www.linkedin.com/jobs/search/?keywords=QA%20Engineer&location=United%20States&origin=JOB_SEARCH_PAGE_JOB_FILTER
 
-https://www.linkedin.com/jobs/search/?&f_E=2&f_TPR=r3600&keywords=QA%20Engineer&location=United%20States&origin=JOB_SEARCH_PAGE_JOB_FILTER
+REMOTE
+https://www.linkedin.com/jobs/search/?keywords=Programmer&location=United%20States&geoId=103644278&f_E=1&f_TPR=r86400&f_WT=2&position=1&pageNum=0
+
+no filter
+https://www.linkedin.com/jobs/search/?keywords=Programmer&location=United%20States&geoId=103644278&f_E=1&f_TPR=r86400&position=1&pageNum=0
