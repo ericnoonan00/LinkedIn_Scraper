@@ -58,9 +58,3 @@ https://www.linkedin.com/jobs/search/?keywords=QA%20Engineer&f_TPR=r3600&locatio
 > filters by Location = USA
 > filters by Experience Level = entry and internship
 
-
-REMOTE
-https://www.linkedin.com/jobs/search/?keywords=Programmer&location=United%20States&geoId=103644278&f_E=1&f_TPR=r86400&f_WT=2&position=1&pageNum=0
-
-no filter
-https://www.linkedin.com/jobs/search/?keywords=Programmer&location=United%20States&geoId=103644278&f_E=1&f_TPR=r86400&position=1&pageNum=0
