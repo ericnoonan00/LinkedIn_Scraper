@@ -18,21 +18,17 @@ const URLS = new Map([
   ['Indeed', 'https://www.indeed.com/'],
 ])
 
+const RESULTS = {}
+
 // functions
 async function scrapeLinkedIn() {
   const browser = await chromium.launch({ headless: false });
   const context = await browser.newContext();
   const page = await context.newPage();
 
+  for (let i = 0; i < SEARCHES.length; i++) {
+    // for (let i = 0; i < 1; i++) {
 
-  const LinkedInLINKS = []
-
-  // await page.goto(`${URLS.get('LinkedIn')}search/?keywords=${encodeURIComponent(SEARCHES[0])}`)
-  // await page.locator('.modal__dismiss').first().click()
-
-  for (let i = 0; i < 1; i++) {
-
-    // search each query
     // FILTERS:
     // usa (location=United%20States)
     // remote (f_WT=2)
@@ -45,42 +41,54 @@ async function scrapeLinkedIn() {
     await page.goto(searchUrl);
 
     // get the list of all the results
-    const resultsList = await page
+    const searchResultsList = await page
       .locator('.jobs-search__results-list')
       .locator('.base-card')
       .all();
-    console.log(resultsList);
+    // console.log(resultsList);
 
     // get info about each listing
-    for (let j = 0; j < resultsList.length; j++) {
-      const link = await resultsList[j]
+    for (let j = 0; j < searchResultsList.length; j++) {
+      const link = await searchResultsList[j]
         .locator('.base-card__full-link')
         .getAttribute('href');
       // console.log(link);
 
-      const info = await resultsList[j].locator('.base-search-card__info')
+      const info = await searchResultsList[j].locator('.base-search-card__info')
       // console.log(info);
 
       const jobTitle = await info
         .locator('.base-search-card__title')
-        .innerHTML()
+        .innerText()
 
       // console.log(jobTitle);
 
       const company = await info
         .locator('.base-search-card__subtitle')
         .locator('.hidden-nested-link')
-        .innerHTML();
+        .innerText();
       // console.log(company);
 
-      LinkedInLINKS.push(link)
-      console.log(`TITLE: ${jobTitle} COMPANY: ${company} LINK: ${link}`);
+      const postedDate = new Date(
+        await info
+          .locator('.base-search-card__metadata')
+          .locator('.job-search-card__listdate--new')
+          .getAttribute('datetime')
+      )
+      // console.log(postedDate);
+
+      RESULTS[SEARCHES[i]] = {
+        "title": jobTitle,
+        "company": company,
+        "link": link,
+        "date": postedDate,
+      }
     }
 
   }
-  // console.log(LinkedInLINKS);
+  console.log(RESULTS);
 
-  // await browser.close();
+  await browser.close();
 }
 
 /* -- MAIN -- */
