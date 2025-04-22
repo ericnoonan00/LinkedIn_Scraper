@@ -18,7 +18,16 @@ const URLS = new Map([
   ['Indeed', 'https://www.indeed.com/'],
 ])
 
-const RESULTS = {}
+const RESULTS = {
+  "QA Engineer I": [],
+  "Junior developer": [],
+  "Junior Programmer": [],
+  "Database Administrator": [],
+  "Database Administrator Intern": [],
+  "Data Analyst": [],
+  "Junior Data Analyst": [],
+  "Data Analyst intern": [],
+}
 
 // functions
 async function scrapeLinkedIn() {
@@ -26,8 +35,8 @@ async function scrapeLinkedIn() {
   const context = await browser.newContext();
   const page = await context.newPage();
 
-  for (let i = 0; i < SEARCHES.length; i++) {
-    // for (let i = 0; i < 1; i++) {
+  // for (let i = 0; i < SEARCHES.length; i++) {
+  for (let i = 0; i < 1; i++) {
 
     // FILTERS:
     // usa (location=United%20States)
@@ -72,23 +81,25 @@ async function scrapeLinkedIn() {
       const postedDate = new Date(
         await info
           .locator('.base-search-card__metadata')
-          .locator('.job-search-card__listdate--new')
+          .locator('time')
           .getAttribute('datetime')
       )
-      // console.log(postedDate);
+      console.log(postedDate);
 
-      RESULTS[SEARCHES[i]] = {
-        "title": jobTitle,
-        "company": company,
-        "link": link,
-        "date": postedDate,
-      }
+      RESULTS[SEARCHES[i]].push({
+        [j + 1]: {
+          "title": jobTitle,
+          "company": company,
+          "link": link,
+          "date": postedDate,
+        }
+      })
     }
 
   }
   console.log(RESULTS);
 
-  await browser.close();
+  // await browser.close();
 }
 
 /* -- MAIN -- */
