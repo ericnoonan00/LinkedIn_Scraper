@@ -7,8 +7,6 @@ const SEARCHES = [
   "QA Engineer I",
   "Junior developer",
   "Junior Programmer",
-  "Database Administrator",
-  "Database Administrator Intern",
   "Data Analyst",
   "Junior Data Analyst",
   "Data Analyst intern",
@@ -40,12 +38,16 @@ async function scrapeLinkedIn() {
     await page.goto(searchUrl)
     /** -- FUNK ADDRESSED -- **/
 
+
+
     // get the list of all the results
+    await page.waitForLoadState('load')
     const searchResultsList = await page
       .locator('.jobs-search__results-list')
       .locator('.base-card')
       .all();
     // console.log(resultsList);
+
 
     // get info about each listing and store it in results
     RESULTS[searchQuery] = []
@@ -55,6 +57,7 @@ async function scrapeLinkedIn() {
         .getAttribute('href');
       // console.log(link);
 
+      // TODO: address something working with the locator
       const info = await searchResultsList[j].locator('.base-search-card__info')
       // console.log(info);
 
