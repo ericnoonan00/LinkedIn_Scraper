@@ -12,17 +12,12 @@ const SEARCHES = [
   "Data Analyst intern",
 ]
 
-const URLS = [
-  'https://www.linkedin.com/jobs/',
-  'https://www.indeed.com/',
-]
-
 const RESULTS = {}
 
 // functions
 async function scrapeLinkedIn() {
   for (let i = 0; i < SEARCHES.length; i++) {
-    // for (let i = 0; i < 1; i++) {}
+    // for (let i = 0; i < 1; i++) {
 
     const searchQuery = SEARCHES[i];
     console.log(`Searching for: ${searchQuery}`);
@@ -38,22 +33,22 @@ async function scrapeLinkedIn() {
     await page.goto(searchUrl)
     /** -- FUNK ADDRESSED -- **/
 
-
-
+    // ** TODO: make it work with the proper locators
     // get the list of all the results
     await page.waitForLoadState('load')
     const searchResultsList = await page
-      .locator('.jobs-search__results-list')
-      .locator('.base-card')
+      // "#main-content > section.two-pane-serp-page__results-list > ul > li:nth-child(1)"
+      .locator('#main-content')
+      .locator('.two-pane-serp-page__results-list')
+      .locator('ul.jobs-search__results-list')
+      .locator('li')
       .all();
-    // console.log(resultsList);
-
 
     // get info about each listing and store it in results
     RESULTS[searchQuery] = []
     for (let j = 0; j < searchResultsList.length; j++) {
       const link = await searchResultsList[j]
-        .locator('.base-card__full-link')
+        .locator('a.base-card__full-link')
         .getAttribute('href');
       // console.log(link);
 
