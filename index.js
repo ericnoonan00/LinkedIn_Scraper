@@ -33,7 +33,6 @@ async function scrapeLinkedIn() {
     await page.goto(searchUrl)
     /** -- FUNK ADDRESSED -- **/
 
-    // ** TODO: make it work with the proper locators
     // get the list of all the results
     await page.waitForLoadState('load')
     const searchResultsList = await page
