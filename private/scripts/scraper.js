@@ -1,4 +1,5 @@
 const { chromium } = require('playwright');
+const fs = require('fs');
 
 // I am going to use playwright to scrape linkedin, then post my results to one page where i can sift through and apply
 
@@ -50,7 +51,6 @@ async function scrapeLinkedIn() {
         .getAttribute('href');
       // console.log(link);
 
-      // TODO: address something working with the locator
       const info = await searchResultsList[j].locator('.base-search-card__info')
       // console.log(info);
 
@@ -88,11 +88,26 @@ async function scrapeLinkedIn() {
     // close the browser after each search to avoid redirects
     await browser.close();
     console.log(RESULTS);
+    // console.log(JSON.stringify(RESULTS));
   }
-  // console.log(JSON.stringify(RESULTS));
 
-  // TODO: Save results to a JSON file to be read by the webpage
-
+  // Save results to a JSON file to be read by the webpage
+  const data = JSON.stringify(RESULTS, null, 2)
+  // delete the last saved data
+  if (fs.existsSync('../json/searchresults.json'))
+    fs.unlink("../json/searchresults.json", (err) => {
+      if (err) {
+        console.error(err);
+        throw err
+      }
+    })
+  // save the new data
+  await fs.writeFile("../json/searchresults.json", data, (err) => {
+    if (err) {
+      console.error(err);
+      throw err
+    }
+  })
 }
 
 /* -- MAIN -- */
