@@ -17,7 +17,6 @@ const RESULTS = {}
 // functions
 export async function scrapeLinkedIn() {
   for (let i = 0; i < SEARCHES.length; i++) {
-    // for (let i = 0; i < 1; i++) {
 
     const searchQuery = SEARCHES[i];
     console.log(`Searching for: ${searchQuery}`);
@@ -85,9 +84,8 @@ export async function scrapeLinkedIn() {
           .locator('.base-search-card__subtitle')
           .locator('.hidden-nested-link')
           .getAttribute('href');
-        console.log(company);
+        // console.log(company);
       }
-
 
       const postedDate = new Date(
         await info
@@ -110,9 +108,10 @@ export async function scrapeLinkedIn() {
     }
     // close the browser after each search to avoid redirects
     await browser.close();
-    console.log(RESULTS);
-    // console.log(JSON.stringify(RESULTS));
   }
+
+  console.log(RESULTS);
+  // console.log(JSON.stringify(RESULTS));
 
   // Save results to a JSON file to be read by the webpage
   const data = JSON.stringify(RESULTS, null, 2)
