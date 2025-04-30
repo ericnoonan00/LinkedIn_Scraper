@@ -1,5 +1,5 @@
-const { chromium } = require('playwright');
-const fs = require('fs');
+import { chromium } from 'playwright';
+import fs from 'fs';
 
 // I am going to use playwright to scrape linkedin, then post my results to one page where i can sift through and apply
 
@@ -15,7 +15,7 @@ const SEARCHES = [
 const RESULTS = {}
 
 // functions
-async function scrapeLinkedIn() {
+export async function scrapeLinkedIn() {
   for (let i = 0; i < SEARCHES.length; i++) {
     // for (let i = 0; i < 1; i++) {
 
@@ -46,8 +46,11 @@ async function scrapeLinkedIn() {
     // get info about each listing and store it in results
     RESULTS[searchQuery] = []
     for (let j = 0; j < searchResultsList.length; j++) {
+
+      console.log('searching for ' + (j + 1));
+
       const link = await searchResultsList[j]
-        .locator('a.base-card__full-link')
+        .locator('a[data-tracking-control-name="public_jobs_jserp-result_search-card"]')
         .getAttribute('href');
       // console.log(link);
 
@@ -60,11 +63,31 @@ async function scrapeLinkedIn() {
 
       // console.log(jobTitle);
 
-      const company = await info
+      const company = {
+        'companyName': '',
+        'companyLink': '',
+      };
+      // some listings don't have links to the company
+      if (await info
         .locator('.base-search-card__subtitle')
         .locator('.hidden-nested-link')
-        .innerText();
-      // console.log(company);
+        .count() === 0) {
+        company['companyName'] = await info
+          .locator('base-search-card__subtitile')
+          .allInnerTexts();
+      }
+      else {
+        company['companyName'] = await info
+          .locator('.base-search-card__subtitle')
+          .locator('.hidden-nested-link')
+          .innerText();
+        company['companyLink'] = await info
+          .locator('.base-search-card__subtitle')
+          .locator('.hidden-nested-link')
+          .getAttribute('href');
+        console.log(company);
+      }
+
 
       const postedDate = new Date(
         await info

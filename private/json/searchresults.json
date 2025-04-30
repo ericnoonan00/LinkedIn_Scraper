@@ -2,75 +2,102 @@
   "QA Engineer I": [
     {
       "1": {
-        "title": "Junior QA Engineer",
-        "company": "SmartVault",
-        "link": "https://www.linkedin.com/jobs/view/junior-qa-engineer-at-smartvault-4217386608?position=1&pageNum=0&refId=mrZOLcHXhbp5DzwvvznyIw%3D%3D&trackingId=LrIFN%2FpaTnz410C%2FFiPNAA%3D%3D",
-        "date": "2025-04-29T00:00:00.000Z"
-      }
-    },
-    {
-      "2": {
-        "title": "Test Engineer",
-        "company": "Ventiva",
-        "link": "https://www.linkedin.com/jobs/view/test-engineer-at-ventiva-4217569140?position=2&pageNum=0&refId=mrZOLcHXhbp5DzwvvznyIw%3D%3D&trackingId=kpP5n7BubyWixj%2FCdJa3SQ%3D%3D",
-        "date": "2025-04-29T00:00:00.000Z"
-      }
-    },
-    {
-      "3": {
-        "title": "Software Quality Assurance Student Engineer",
-        "company": "EPRI",
-        "link": "https://www.linkedin.com/jobs/view/software-quality-assurance-student-engineer-at-epri-4217091703?position=3&pageNum=0&refId=mrZOLcHXhbp5DzwvvznyIw%3D%3D&trackingId=oWl%2BGwQF3HCL9YyLiGNNNg%3D%3D",
-        "date": "2025-04-29T00:00:00.000Z"
-      }
-    },
-    {
-      "4": {
-        "title": "Cloud Native Test Automation Engineer, Mabl and TestComplete, Javascript Programming",
-        "company": "Jobs via Dice",
-        "link": "https://www.linkedin.com/jobs/view/cloud-native-test-automation-engineer-mabl-and-testcomplete-javascript-programming-at-jobs-via-dice-4217072699?position=4&pageNum=0&refId=mrZOLcHXhbp5DzwvvznyIw%3D%3D&trackingId=BN4eqXKdiefAgXo9E0kASg%3D%3D",
-        "date": "2025-04-29T00:00:00.000Z"
+        "title": "Quality Assurance Engineer",
+        "company": {
+          "companyName": "TieTalent",
+          "companyLink": "https://ch.linkedin.com/company/tietalent?trk=public_jobs_jserp-result_job-search-card-subtitle"
+        },
+        "link": "https://www.linkedin.com/jobs/view/quality-assurance-engineer-at-tietalent-4219638779?position=1&pageNum=0&refId=3I5whxlyZIe4lwfdtcoCdw%3D%3D&trackingId=dVjjE%2BYrn%2BlXLqEU0NGF5Q%3D%3D",
+        "date": "2025-04-30T00:00:00.000Z"
       }
     }
   ],
   "Junior developer": [
     {
       "1": {
-        "title": "Software Developer, Web",
-        "company": "Slice",
-        "link": "https://www.linkedin.com/jobs/view/software-developer-web-at-slice-4217363990?position=1&pageNum=0&refId=mQUuIDryWREL%2BNhUZrQVQw%3D%3D&trackingId=vzTJp%2FJzzYZdthSzY4v9%2BQ%3D%3D",
-        "date": "2025-04-29T00:00:00.000Z"
+        "title": "Web Developer - Remote",
+        "company": {
+          "companyName": "Jobs via Lensa",
+          "companyLink": "https://www.linkedin.com/company/lensa?trk=public_jobs_jserp-result_job-search-card-subtitle"
+        },
+        "link": "https://www.linkedin.com/jobs/view/web-developer-remote-at-jobs-via-lensa-4218040671?position=1&pageNum=0&refId=Bcw8ssAeIYHBWgMn%2FlxsPg%3D%3D&trackingId=W3rOWdhIawc515PntzoBhA%3D%3D",
+        "date": "2025-04-30T00:00:00.000Z"
       }
     },
     {
       "2": {
-        "title": "Web Designer/Developer (contract/freelance)",
-        "company": "Local Wisdom",
-        "link": "https://www.linkedin.com/jobs/view/web-designer-developer-contract-freelance-at-local-wisdom-4219043263?position=2&pageNum=0&refId=mQUuIDryWREL%2BNhUZrQVQw%3D%3D&trackingId=QPMCijrkNRuLOLJFpbpteA%3D%3D",
-        "date": "2025-04-28T00:00:00.000Z"
+        "title": "Software Developer, Junior",
+        "company": {
+          "companyName": "Trilogy Innovations",
+          "companyLink": "https://in.linkedin.com/company/trilogyinnovations?trk=public_jobs_jserp-result_job-search-card-subtitle"
+        },
+        "link": "https://www.linkedin.com/jobs/view/software-developer-junior-at-trilogy-innovations-4218836091?position=2&pageNum=0&refId=Bcw8ssAeIYHBWgMn%2FlxsPg%3D%3D&trackingId=AJF3qVJQX7l2eC4WB5SYcQ%3D%3D",
+        "date": "2025-04-30T00:00:00.000Z"
       }
     },
     {
       "3": {
-        "title": "Web Developer (Gaming Industry Required)",
-        "company": "Jobs via Dice",
-        "link": "https://www.linkedin.com/jobs/view/web-developer-gaming-industry-required-at-jobs-via-dice-4217067779?position=3&pageNum=0&refId=mQUuIDryWREL%2BNhUZrQVQw%3D%3D&trackingId=MwMvk3ic0D4ecNQSK0aG8Q%3D%3D",
-        "date": "2025-04-29T00:00:00.000Z"
+        "title": "Junior Java Developer",
+        "company": {
+          "companyName": "WorkinVirtual",
+          "companyLink": "https://pk.linkedin.com/company/workinvirtual?trk=public_jobs_jserp-result_job-search-card-subtitle"
+        },
+        "link": "https://www.linkedin.com/jobs/view/junior-java-developer-at-workinvirtual-4219689614?position=3&pageNum=0&refId=Bcw8ssAeIYHBWgMn%2FlxsPg%3D%3D&trackingId=kg0QiEOWp8UBIDdXFiNJwA%3D%3D",
+        "date": "2025-04-30T00:00:00.000Z"
       }
     },
     {
       "4": {
-        "title": "DevOps Engineer",
-        "company": "Mob Entertainment",
-        "link": "https://www.linkedin.com/jobs/view/devops-engineer-at-mob-entertainment-4217040117?position=4&pageNum=0&refId=mQUuIDryWREL%2BNhUZrQVQw%3D%3D&trackingId=dXa4FyNQ4LP5DAnyY%2B4Mig%3D%3D",
-        "date": "2025-04-28T00:00:00.000Z"
+        "title": "Front End Software Engineer",
+        "company": {
+          "companyName": "SMG - Service Management Group",
+          "companyLink": "https://www.linkedin.com/company/service-management-group?trk=public_jobs_jserp-result_job-search-card-subtitle"
+        },
+        "link": "https://www.linkedin.com/jobs/view/front-end-software-engineer-at-smg-service-management-group-4192148226?position=4&pageNum=0&refId=Bcw8ssAeIYHBWgMn%2FlxsPg%3D%3D&trackingId=W7vaPM3v1cR6UBiasx17zg%3D%3D",
+        "date": "2025-04-30T00:00:00.000Z"
       }
     },
     {
       "5": {
-        "title": "Web Developer with EPIC Games",
-        "company": "Jobs via Dice",
-        "link": "https://www.linkedin.com/jobs/view/web-developer-with-epic-games-at-jobs-via-dice-4217070759?position=5&pageNum=0&refId=mQUuIDryWREL%2BNhUZrQVQw%3D%3D&trackingId=du%2BO2sPWMgQsllZbz7yImg%3D%3D",
+        "title": "Mentors (Independent Contractor) - Front End Developer Nanodegree program: Project Reviewers",
+        "company": {
+          "companyName": "Udacity",
+          "companyLink": "https://www.linkedin.com/school/udacity/?trk=public_jobs_jserp-result_job-search-card-subtitle"
+        },
+        "link": "https://www.linkedin.com/jobs/view/mentors-independent-contractor-front-end-developer-nanodegree-program-project-reviewers-at-udacity-4187863364?position=5&pageNum=0&refId=Bcw8ssAeIYHBWgMn%2FlxsPg%3D%3D&trackingId=WU9H8bBifnaydvk6X6Qefw%3D%3D",
+        "date": "2025-04-30T00:00:00.000Z"
+      }
+    },
+    {
+      "6": {
+        "title": "Frontend Engineer",
+        "company": {
+          "companyName": "Motion Recruitment",
+          "companyLink": "https://www.linkedin.com/company/motion-recruitment-partners?trk=public_jobs_jserp-result_job-search-card-subtitle"
+        },
+        "link": "https://www.linkedin.com/jobs/view/frontend-engineer-at-motion-recruitment-4209869004?position=6&pageNum=0&refId=Bcw8ssAeIYHBWgMn%2FlxsPg%3D%3D&trackingId=FUkcU13UrM16Qq5sQl8n3w%3D%3D",
+        "date": "2025-04-29T00:00:00.000Z"
+      }
+    },
+    {
+      "7": {
+        "title": "Freelance Web Developer",
+        "company": {
+          "companyName": [],
+          "companyLink": ""
+        },
+        "link": "https://www.linkedin.com/jobs/view/freelance-web-developer-4219414069?position=7&pageNum=0&refId=Bcw8ssAeIYHBWgMn%2FlxsPg%3D%3D&trackingId=LXGHn1VJcpctnrFNtd9qyw%3D%3D&trk=public_jobs_jserp-result_search-card",
+        "date": "2025-04-30T00:00:00.000Z"
+      }
+    },
+    {
+      "8": {
+        "title": "Web Developer- Remote role",
+        "company": {
+          "companyName": "Jobs via Dice",
+          "companyLink": "https://www.linkedin.com/company/jobs-via-dice?trk=public_jobs_jserp-result_job-search-card-subtitle"
+        },
+        "link": "https://www.linkedin.com/jobs/view/web-developer-remote-role-at-jobs-via-dice-4217739804?position=8&pageNum=0&refId=Bcw8ssAeIYHBWgMn%2FlxsPg%3D%3D&trackingId=RqBaWvP1qNQ%2FdD%2BOyqKhjA%3D%3D",
         "date": "2025-04-29T00:00:00.000Z"
       }
     }
@@ -78,1440 +105,1327 @@
   "Junior Programmer": [
     {
       "1": {
-        "title": "Software Development - Engineering Co-op 2025",
-        "company": "Wasabi Technologies",
-        "link": "https://www.linkedin.com/jobs/view/software-development-engineering-co-op-2025-at-wasabi-technologies-4217501352?position=1&pageNum=0&refId=11A%2BzfjCToA03h7cXvhjaQ%3D%3D&trackingId=8KRKV1hR7x0xMD%2BH9r%2FANg%3D%3D",
-        "date": "2025-04-29T00:00:00.000Z"
+        "title": "Software Engineering Intern, Summer 2025",
+        "company": {
+          "companyName": "Acorns",
+          "companyLink": "https://www.linkedin.com/company/acorns-grow-inc-?trk=public_jobs_jserp-result_job-search-card-subtitle"
+        },
+        "link": "https://www.linkedin.com/jobs/view/software-engineering-intern-summer-2025-at-acorns-4096785875?position=1&pageNum=0&refId=cAcz6BBikXgtHEhKDw1plA%3D%3D&trackingId=XHbpk9aPYICKr1qRt16NiA%3D%3D",
+        "date": "2025-04-30T00:00:00.000Z"
       }
     },
     {
       "2": {
-        "title": "Early Career C#/ C. Net /Java Developer",
-        "company": "Gainwell Technologies",
-        "link": "https://www.linkedin.com/jobs/view/early-career-c%23-c-net-java-developer-at-gainwell-technologies-4201854145?position=2&pageNum=0&refId=11A%2BzfjCToA03h7cXvhjaQ%3D%3D&trackingId=7L76JSSJOAOcb4sfBcCdsw%3D%3D",
-        "date": "2025-04-29T00:00:00.000Z"
+        "title": "Software Developer, Junior",
+        "company": {
+          "companyName": "Trilogy Innovations",
+          "companyLink": "https://in.linkedin.com/company/trilogyinnovations?trk=public_jobs_jserp-result_job-search-card-subtitle"
+        },
+        "link": "https://www.linkedin.com/jobs/view/software-developer-junior-at-trilogy-innovations-4218836091?position=2&pageNum=0&refId=cAcz6BBikXgtHEhKDw1plA%3D%3D&trackingId=IhRvOWtdtoKfaEPSx8w12Q%3D%3D",
+        "date": "2025-04-30T00:00:00.000Z"
       }
     },
     {
       "3": {
-        "title": "Software Engineering Internships – Academic Year 2025-2026",
-        "company": "NBCUniversal",
-        "link": "https://www.linkedin.com/jobs/view/software-engineering-internships-%E2%80%93-academic-year-2025-2026-at-nbcuniversal-4217062939?position=3&pageNum=0&refId=11A%2BzfjCToA03h7cXvhjaQ%3D%3D&trackingId=drgFga%2BxRDVZbQdJBU4AAw%3D%3D",
-        "date": "2025-04-28T00:00:00.000Z"
+        "title": "Software Engineer Intern",
+        "company": {
+          "companyName": "Linkova",
+          "companyLink": "https://www.linkedin.com/company/linkova-io?trk=public_jobs_jserp-result_job-search-card-subtitle"
+        },
+        "link": "https://www.linkedin.com/jobs/view/software-engineer-intern-at-linkova-4219680750?position=3&pageNum=0&refId=cAcz6BBikXgtHEhKDw1plA%3D%3D&trackingId=z2EAyODFQ3GMT2lysI9eQg%3D%3D",
+        "date": "2025-04-30T00:00:00.000Z"
       }
     },
     {
       "4": {
-        "title": "Software Engineer",
-        "company": "Fieldguide",
-        "link": "https://www.linkedin.com/jobs/view/software-engineer-at-fieldguide-4217043315?position=4&pageNum=0&refId=11A%2BzfjCToA03h7cXvhjaQ%3D%3D&trackingId=NPbE2XOgV3Qss2lyUcTT1A%3D%3D",
-        "date": "2025-04-28T00:00:00.000Z"
+        "title": "Software Engineering Intern, GenAI - Fall 2025",
+        "company": {
+          "companyName": "NVIDIA",
+          "companyLink": "https://www.linkedin.com/company/nvidia?trk=public_jobs_jserp-result_job-search-card-subtitle"
+        },
+        "link": "https://www.linkedin.com/jobs/view/software-engineering-intern-genai-fall-2025-at-nvidia-4219469242?position=4&pageNum=0&refId=cAcz6BBikXgtHEhKDw1plA%3D%3D&trackingId=n2oE5sk8sSdwPSphXR6uoA%3D%3D",
+        "date": "2025-04-30T00:00:00.000Z"
       }
     },
     {
       "5": {
-        "title": "Software Developer, Web",
-        "company": "Slice",
-        "link": "https://www.linkedin.com/jobs/view/software-developer-web-at-slice-4217363990?position=5&pageNum=0&refId=11A%2BzfjCToA03h7cXvhjaQ%3D%3D&trackingId=aumhOwqBEXsatz1%2FMv3j1A%3D%3D",
+        "title": "Software Engineer",
+        "company": {
+          "companyName": "Fieldguide",
+          "companyLink": "https://www.linkedin.com/company/fieldguide-inc?trk=public_jobs_jserp-result_job-search-card-subtitle"
+        },
+        "link": "https://www.linkedin.com/jobs/view/software-engineer-at-fieldguide-4217712409?position=5&pageNum=0&refId=cAcz6BBikXgtHEhKDw1plA%3D%3D&trackingId=GOiUm3VqnZJgdThFtipLjg%3D%3D",
         "date": "2025-04-29T00:00:00.000Z"
       }
     },
     {
       "6": {
-        "title": "Software Engineer, Backend (Institutional - Staking)",
-        "company": "Coinbase",
-        "link": "https://www.linkedin.com/jobs/view/software-engineer-backend-institutional-staking-at-coinbase-4203551189?position=6&pageNum=0&refId=11A%2BzfjCToA03h7cXvhjaQ%3D%3D&trackingId=%2FJgBzJck1fPBMWnxkhz0Kg%3D%3D",
-        "date": "2025-04-29T00:00:00.000Z"
+        "title": "Software Engineer",
+        "company": {
+          "companyName": "Hopae",
+          "companyLink": "https://kr.linkedin.com/company/hopae?trk=public_jobs_jserp-result_job-search-card-subtitle"
+        },
+        "link": "https://www.linkedin.com/jobs/view/software-engineer-at-hopae-4188773579?position=6&pageNum=0&refId=cAcz6BBikXgtHEhKDw1plA%3D%3D&trackingId=S4MczdoePFJAlUsQQkXSag%3D%3D",
+        "date": "2025-04-30T00:00:00.000Z"
       }
     },
     {
       "7": {
-        "title": "Software Engineer, Frontend (EAA)",
-        "company": "Coinbase",
-        "link": "https://www.linkedin.com/jobs/view/software-engineer-frontend-eaa-at-coinbase-4203531327?position=7&pageNum=0&refId=11A%2BzfjCToA03h7cXvhjaQ%3D%3D&trackingId=xwlTpf3OBCUgPBxfUyRR%2Fw%3D%3D",
-        "date": "2025-04-29T00:00:00.000Z"
+        "title": "Software Engineer Intern",
+        "company": {
+          "companyName": "Esync Technologies",
+          "companyLink": "https://www.linkedin.com/company/esync-technologies-llc?trk=public_jobs_jserp-result_job-search-card-subtitle"
+        },
+        "link": "https://www.linkedin.com/jobs/view/software-engineer-intern-at-esync-technologies-4218326490?position=7&pageNum=0&refId=cAcz6BBikXgtHEhKDw1plA%3D%3D&trackingId=vZZ9N3ulXziyOJK54VPAkA%3D%3D",
+        "date": "2025-04-30T00:00:00.000Z"
       }
     },
     {
       "8": {
-        "title": "Software Engineer, Backend (Consumer - Stablecoin)",
-        "company": "Coinbase",
-        "link": "https://www.linkedin.com/jobs/view/software-engineer-backend-consumer-stablecoin-at-coinbase-4203555067?position=8&pageNum=0&refId=11A%2BzfjCToA03h7cXvhjaQ%3D%3D&trackingId=zYuas%2FAx30hw5VvUZBQwFA%3D%3D",
-        "date": "2025-04-29T00:00:00.000Z"
+        "title": "Software Engineer Intern",
+        "company": {
+          "companyName": "Esync Technologies",
+          "companyLink": "https://www.linkedin.com/company/esync-technologies-llc?trk=public_jobs_jserp-result_job-search-card-subtitle"
+        },
+        "link": "https://www.linkedin.com/jobs/view/software-engineer-intern-at-esync-technologies-4219846542?position=8&pageNum=0&refId=cAcz6BBikXgtHEhKDw1plA%3D%3D&trackingId=OrnvduAYY4QE6HMK47vBkw%3D%3D",
+        "date": "2025-04-30T00:00:00.000Z"
       }
     },
     {
       "9": {
-        "title": "Software Engineer I",
-        "company": "Mercury Insurance",
-        "link": "https://www.linkedin.com/jobs/view/software-engineer-i-at-mercury-insurance-4219140145?position=9&pageNum=0&refId=11A%2BzfjCToA03h7cXvhjaQ%3D%3D&trackingId=YZ9tfH7UvhmPvUUg4%2Fkezg%3D%3D",
-        "date": "2025-04-29T00:00:00.000Z"
+        "title": "Web Developer - Remote",
+        "company": {
+          "companyName": "Jobs via Lensa",
+          "companyLink": "https://www.linkedin.com/company/lensa?trk=public_jobs_jserp-result_job-search-card-subtitle"
+        },
+        "link": "https://www.linkedin.com/jobs/view/web-developer-remote-at-jobs-via-lensa-4218040671?position=9&pageNum=0&refId=cAcz6BBikXgtHEhKDw1plA%3D%3D&trackingId=pBLNnXNRsSPmFVEEv36VZg%3D%3D",
+        "date": "2025-04-30T00:00:00.000Z"
       }
     },
     {
       "10": {
-        "title": "entry level software engineer",
-        "company": "Jobs via Dice",
-        "link": "https://www.linkedin.com/jobs/view/entry-level-software-engineer-at-jobs-via-dice-4217395791?position=10&pageNum=0&refId=11A%2BzfjCToA03h7cXvhjaQ%3D%3D&trackingId=LXvXQPLYB5AGmm5kkVP6eA%3D%3D",
+        "title": "Javascript Developer",
+        "company": {
+          "companyName": "TishEd Inc.",
+          "companyLink": "https://www.linkedin.com/company/tished-inc?trk=public_jobs_jserp-result_job-search-card-subtitle"
+        },
+        "link": "https://www.linkedin.com/jobs/view/javascript-developer-at-tished-inc-4217721720?position=10&pageNum=0&refId=cAcz6BBikXgtHEhKDw1plA%3D%3D&trackingId=Lz2R%2BpIevj4eLiEchLb1Fw%3D%3D",
         "date": "2025-04-29T00:00:00.000Z"
       }
     },
     {
       "11": {
-        "title": "Software Engineer, Full Stack (EAA)",
-        "company": "Coinbase",
-        "link": "https://www.linkedin.com/jobs/view/software-engineer-full-stack-eaa-at-coinbase-4203553189?position=11&pageNum=0&refId=11A%2BzfjCToA03h7cXvhjaQ%3D%3D&trackingId=updO9nDFb0vyQ5gvF%2F6X7w%3D%3D",
+        "title": "Software Engineer, Full Stack",
+        "company": {
+          "companyName": "Rad AI",
+          "companyLink": "https://www.linkedin.com/company/radai?trk=public_jobs_jserp-result_job-search-card-subtitle"
+        },
+        "link": "https://www.linkedin.com/jobs/view/software-engineer-full-stack-at-rad-ai-4219343749?position=11&pageNum=0&refId=cAcz6BBikXgtHEhKDw1plA%3D%3D&trackingId=TinoL8hBE%2F1mWHNTL8RYdA%3D%3D",
         "date": "2025-04-29T00:00:00.000Z"
       }
     },
     {
       "12": {
-        "title": "Software Engineering Intern (Remote, Full-Time or Part-Time, Unpaid) — Health Tech",
-        "company": "Get Vitals",
-        "link": "https://www.linkedin.com/jobs/view/software-engineering-intern-remote-full-time-or-part-time-unpaid-%E2%80%94-health-tech-at-get-vitals-4216694454?position=12&pageNum=0&refId=11A%2BzfjCToA03h7cXvhjaQ%3D%3D&trackingId=XSxyx2KhmpWKX9jjMTyQ5Q%3D%3D",
-        "date": "2025-04-29T00:00:00.000Z"
+        "title": "Full Stack Engineering Intern",
+        "company": {
+          "companyName": "PointsGo",
+          "companyLink": "https://www.linkedin.com/company/pointsgo?trk=public_jobs_jserp-result_job-search-card-subtitle"
+        },
+        "link": "https://www.linkedin.com/jobs/view/full-stack-engineering-intern-at-pointsgo-4218036233?position=12&pageNum=0&refId=cAcz6BBikXgtHEhKDw1plA%3D%3D&trackingId=uYz7pSesa%2F2bWo5LKvtRJw%3D%3D",
+        "date": "2025-04-30T00:00:00.000Z"
       }
     },
     {
       "13": {
-        "title": "Software Developer, Full-Stack",
-        "company": "Slice",
-        "link": "https://www.linkedin.com/jobs/view/software-developer-full-stack-at-slice-4217366430?position=13&pageNum=0&refId=11A%2BzfjCToA03h7cXvhjaQ%3D%3D&trackingId=7gcplwhGcNseBx64M9E3Hw%3D%3D",
-        "date": "2025-04-29T00:00:00.000Z"
+        "title": "Mentors (Independent Contractor) - Front End Developer Nanodegree program: Project Reviewers",
+        "company": {
+          "companyName": "Udacity",
+          "companyLink": "https://www.linkedin.com/school/udacity/?trk=public_jobs_jserp-result_job-search-card-subtitle"
+        },
+        "link": "https://www.linkedin.com/jobs/view/mentors-independent-contractor-front-end-developer-nanodegree-program-project-reviewers-at-udacity-4187863364?position=13&pageNum=0&refId=cAcz6BBikXgtHEhKDw1plA%3D%3D&trackingId=9il%2FICW8AXoFK59TnyzScw%3D%3D",
+        "date": "2025-04-30T00:00:00.000Z"
       }
     },
     {
       "14": {
-        "title": "Software Engineer",
-        "company": "Valon",
-        "link": "https://www.linkedin.com/jobs/view/software-engineer-at-valon-4203570831?position=14&pageNum=0&refId=11A%2BzfjCToA03h7cXvhjaQ%3D%3D&trackingId=BBCrHwxOGxnPapZ4pcXTIg%3D%3D",
+        "title": "Quality Assurance Intern - Summer 2025",
+        "company": {
+          "companyName": "Wayfinder",
+          "companyLink": "https://www.linkedin.com/company/wayfinder-edu?trk=public_jobs_jserp-result_job-search-card-subtitle"
+        },
+        "link": "https://www.linkedin.com/jobs/view/quality-assurance-intern-summer-2025-at-wayfinder-4219304342?position=14&pageNum=0&refId=cAcz6BBikXgtHEhKDw1plA%3D%3D&trackingId=7P2PgwuoC37mqCm6IF7KQQ%3D%3D",
         "date": "2025-04-29T00:00:00.000Z"
       }
     },
     {
       "15": {
-        "title": "Java Engineer I",
-        "company": "Lean TECHniques",
-        "link": "https://www.linkedin.com/jobs/view/java-engineer-i-at-lean-techniques-4219150102?position=15&pageNum=0&refId=11A%2BzfjCToA03h7cXvhjaQ%3D%3D&trackingId=Uk4wJv2Zr31zVBNOywMAsQ%3D%3D",
+        "title": "Software Engineer",
+        "company": {
+          "companyName": "HireTalent - Staffing & Recruiting Firm",
+          "companyLink": "https://www.linkedin.com/company/hiretalent_?trk=public_jobs_jserp-result_job-search-card-subtitle"
+        },
+        "link": "https://www.linkedin.com/jobs/view/software-engineer-at-hiretalent-staffing-recruiting-firm-4219345780?position=15&pageNum=0&refId=cAcz6BBikXgtHEhKDw1plA%3D%3D&trackingId=E9e2yQjLn3Lr3qO%2BpjOoZg%3D%3D",
         "date": "2025-04-29T00:00:00.000Z"
       }
     },
     {
       "16": {
-        "title": "Software Engineer I (San Francisco)",
-        "company": "Jerry",
-        "link": "https://www.linkedin.com/jobs/view/software-engineer-i-san-francisco-at-jerry-4217568522?position=16&pageNum=0&refId=11A%2BzfjCToA03h7cXvhjaQ%3D%3D&trackingId=Ic%2FOL178OMK9QZA14G2H0w%3D%3D",
-        "date": "2025-04-29T00:00:00.000Z"
+        "title": "Front End Software Engineer",
+        "company": {
+          "companyName": "SMG - Service Management Group",
+          "companyLink": "https://www.linkedin.com/company/service-management-group?trk=public_jobs_jserp-result_job-search-card-subtitle"
+        },
+        "link": "https://www.linkedin.com/jobs/view/front-end-software-engineer-at-smg-service-management-group-4192148226?position=16&pageNum=0&refId=cAcz6BBikXgtHEhKDw1plA%3D%3D&trackingId=wp4YLe%2F%2FWUL00bz3M5Wv6w%3D%3D",
+        "date": "2025-04-30T00:00:00.000Z"
       }
     },
     {
       "17": {
-        "title": "Software Engineer I (San Francisco)",
-        "company": "Jerry",
-        "link": "https://www.linkedin.com/jobs/view/software-engineer-i-san-francisco-at-jerry-4217569521?position=17&pageNum=0&refId=11A%2BzfjCToA03h7cXvhjaQ%3D%3D&trackingId=GqjJqBYYchwWeh2s%2BZxI7g%3D%3D",
-        "date": "2025-04-29T00:00:00.000Z"
+        "title": "PART-TIME REMOTE COMPUTER PROGRAMMER",
+        "company": {
+          "companyName": "Hire Our Heroes Veteran Job Board",
+          "companyLink": "https://www.linkedin.com/company/hireourheroesveteranjobboard?trk=public_jobs_jserp-result_job-search-card-subtitle"
+        },
+        "link": "https://www.linkedin.com/jobs/view/part-time-remote-computer-programmer-at-hire-our-heroes-veteran-job-board-4219498125?position=17&pageNum=0&refId=cAcz6BBikXgtHEhKDw1plA%3D%3D&trackingId=d6knK34nj8qtJaGPR59Q5g%3D%3D",
+        "date": "2025-04-30T00:00:00.000Z"
       }
     },
     {
       "18": {
-        "title": "Software Engineer - (Remote - US)",
-        "company": "Jobgether",
-        "link": "https://www.linkedin.com/jobs/view/software-engineer-remote-us-at-jobgether-4217583683?position=18&pageNum=0&refId=11A%2BzfjCToA03h7cXvhjaQ%3D%3D&trackingId=BekhSUzvh7ScpwYPYE%2FF1w%3D%3D",
-        "date": "2025-04-29T00:00:00.000Z"
+        "title": "Software Developer in Test (SDET)",
+        "company": {
+          "companyName": "Ostro",
+          "companyLink": "https://www.linkedin.com/company/ostrohealth?trk=public_jobs_jserp-result_job-search-card-subtitle"
+        },
+        "link": "https://www.linkedin.com/jobs/view/software-developer-in-test-sdet-at-ostro-4219686202?position=18&pageNum=0&refId=cAcz6BBikXgtHEhKDw1plA%3D%3D&trackingId=IhX9%2BWzVMwBXttbFDx4eVg%3D%3D",
+        "date": "2025-04-30T00:00:00.000Z"
       }
     },
     {
       "19": {
-        "title": "Software Engineer I (San Francisco)",
-        "company": "Jerry",
-        "link": "https://www.linkedin.com/jobs/view/software-engineer-i-san-francisco-at-jerry-4217572361?position=19&pageNum=0&refId=11A%2BzfjCToA03h7cXvhjaQ%3D%3D&trackingId=boaxArFWmA1trf%2FPaBGYDg%3D%3D",
-        "date": "2025-04-29T00:00:00.000Z"
+        "title": "Data Science & Engineering Intern",
+        "company": {
+          "companyName": "Stack Sports",
+          "companyLink": "https://www.linkedin.com/company/stacksports?trk=public_jobs_jserp-result_job-search-card-subtitle"
+        },
+        "link": "https://www.linkedin.com/jobs/view/data-science-engineering-intern-at-stack-sports-4218028320?position=19&pageNum=0&refId=cAcz6BBikXgtHEhKDw1plA%3D%3D&trackingId=s1r%2BvkyBkx63cNIbr6dk9Q%3D%3D",
+        "date": "2025-04-30T00:00:00.000Z"
       }
     },
     {
       "20": {
-        "title": "Software Engineer",
-        "company": "Loti",
-        "link": "https://www.linkedin.com/jobs/view/software-engineer-at-loti-4216811186?position=20&pageNum=0&refId=11A%2BzfjCToA03h7cXvhjaQ%3D%3D&trackingId=jNHYQQgHGJykJ4t1ap7ugw%3D%3D",
-        "date": "2025-04-28T00:00:00.000Z"
+        "title": "C# Software Engineer",
+        "company": {
+          "companyName": "Brainpool AI",
+          "companyLink": "https://uk.linkedin.com/company/brainpool-ltd?trk=public_jobs_jserp-result_job-search-card-subtitle"
+        },
+        "link": "https://www.linkedin.com/jobs/view/c%23-software-engineer-at-brainpool-ai-4218803425?position=20&pageNum=0&refId=cAcz6BBikXgtHEhKDw1plA%3D%3D&trackingId=sQ7dwbvfk1ey7zuuSAd8hA%3D%3D",
+        "date": "2025-04-30T00:00:00.000Z"
       }
     },
     {
       "21": {
-        "title": "Backend Software Engineer - AI Platforms",
-        "company": "INSPYR Solutions",
-        "link": "https://www.linkedin.com/jobs/view/backend-software-engineer-ai-platforms-at-inspyr-solutions-4219049625?position=21&pageNum=0&refId=11A%2BzfjCToA03h7cXvhjaQ%3D%3D&trackingId=vpHaRvQgv7KFhcNhwDx74g%3D%3D",
-        "date": "2025-04-28T00:00:00.000Z"
+        "title": "Software Engineering Intern (Remote in Arizona)",
+        "company": {
+          "companyName": "TieTalent",
+          "companyLink": "https://ch.linkedin.com/company/tietalent?trk=public_jobs_jserp-result_job-search-card-subtitle"
+        },
+        "link": "https://www.linkedin.com/jobs/view/software-engineering-intern-remote-in-arizona-at-tietalent-4219694184?position=21&pageNum=0&refId=cAcz6BBikXgtHEhKDw1plA%3D%3D&trackingId=%2F%2FZnF1ubQiMe0HGRw5Gpbw%3D%3D",
+        "date": "2025-04-30T00:00:00.000Z"
       }
     },
     {
       "22": {
-        "title": "Web Engineer I",
-        "company": "HashiCorp",
-        "link": "https://www.linkedin.com/jobs/view/web-engineer-i-at-hashicorp-4216818126?position=22&pageNum=0&refId=11A%2BzfjCToA03h7cXvhjaQ%3D%3D&trackingId=fE%2FhqQZpnKkw2S7EVaFfEw%3D%3D",
+        "title": "Data Engineer",
+        "company": {
+          "companyName": "ROR",
+          "companyLink": "https://www.linkedin.com/company/rorpartners?trk=public_jobs_jserp-result_job-search-card-subtitle"
+        },
+        "link": "https://www.linkedin.com/jobs/view/data-engineer-at-ror-4217399400?position=22&pageNum=0&refId=cAcz6BBikXgtHEhKDw1plA%3D%3D&trackingId=BjPDUMb6tDbEyezEjfCpaw%3D%3D",
         "date": "2025-04-29T00:00:00.000Z"
       }
     },
     {
       "23": {
-        "title": "Software Quality Engineer Intern - Summer 2025",
-        "company": "ServiceNow",
-        "link": "https://www.linkedin.com/jobs/view/software-quality-engineer-intern-summer-2025-at-servicenow-4219115268?position=23&pageNum=0&refId=11A%2BzfjCToA03h7cXvhjaQ%3D%3D&trackingId=c7qJo%2B94QblHjE9BEGfNiQ%3D%3D",
-        "date": "2025-04-29T00:00:00.000Z"
+        "title": "Software Engineer (Full Stack)",
+        "company": {
+          "companyName": "Wiraa",
+          "companyLink": "https://in.linkedin.com/company/wiraa?trk=public_jobs_jserp-result_job-search-card-subtitle"
+        },
+        "link": "https://www.linkedin.com/jobs/view/software-engineer-full-stack-at-wiraa-4219816507?position=23&pageNum=0&refId=cAcz6BBikXgtHEhKDw1plA%3D%3D&trackingId=xTZaox6ooFrx2XZv5D5FWQ%3D%3D",
+        "date": "2025-04-30T00:00:00.000Z"
       }
     },
     {
       "24": {
-        "title": "Software Engineer - Unpaid Internship",
-        "company": "TechX",
-        "link": "https://www.linkedin.com/jobs/view/software-engineer-unpaid-internship-at-techx-4216836888?position=24&pageNum=0&refId=11A%2BzfjCToA03h7cXvhjaQ%3D%3D&trackingId=qUcqF%2B1soi3dw6oFsT32ag%3D%3D",
+        "title": "Desktop Application Developer",
+        "company": {
+          "companyName": "Aditi Consulting",
+          "companyLink": "https://www.linkedin.com/company/aditiconsulting?trk=public_jobs_jserp-result_job-search-card-subtitle"
+        },
+        "link": "https://www.linkedin.com/jobs/view/desktop-application-developer-at-aditi-consulting-4219185277?position=24&pageNum=0&refId=cAcz6BBikXgtHEhKDw1plA%3D%3D&trackingId=I7OWPtolTedBEfJPam1xVA%3D%3D",
         "date": "2025-04-29T00:00:00.000Z"
       }
     },
     {
       "25": {
-        "title": "Software Engineer",
-        "company": "Myvanta Tech",
-        "link": "https://www.linkedin.com/jobs/view/software-engineer-at-myvanta-tech-4217154535?position=25&pageNum=0&refId=11A%2BzfjCToA03h7cXvhjaQ%3D%3D&trackingId=C7z11l57%2Ft%2F4m2KANW8bnQ%3D%3D",
-        "date": "2025-04-29T00:00:00.000Z"
+        "title": "Java Developer 2",
+        "company": {
+          "companyName": "Numentica",
+          "companyLink": "https://www.linkedin.com/company/numentica-llc?trk=public_jobs_jserp-result_job-search-card-subtitle"
+        },
+        "link": "https://www.linkedin.com/jobs/view/java-developer-2-at-numentica-4218309509?position=25&pageNum=0&refId=cAcz6BBikXgtHEhKDw1plA%3D%3D&trackingId=PxCXMwjMHRfNe8HQidO1zA%3D%3D",
+        "date": "2025-04-30T00:00:00.000Z"
       }
     },
     {
       "26": {
-        "title": "Data Science Intern",
-        "company": "Digbi Health",
-        "link": "https://www.linkedin.com/jobs/view/data-science-intern-at-digbi-health-4216891193?position=26&pageNum=0&refId=11A%2BzfjCToA03h7cXvhjaQ%3D%3D&trackingId=azK1o3LfzdIqHL1iUDwgsg%3D%3D",
-        "date": "2025-04-29T00:00:00.000Z"
+        "title": "Software Quality Engineer",
+        "company": {
+          "companyName": "Helix Recruitment Consulting",
+          "companyLink": "https://www.linkedin.com/company/helix-recruitment-consulting?trk=public_jobs_jserp-result_job-search-card-subtitle"
+        },
+        "link": "https://www.linkedin.com/jobs/view/software-quality-engineer-at-helix-recruitment-consulting-4218809152?position=26&pageNum=0&refId=cAcz6BBikXgtHEhKDw1plA%3D%3D&trackingId=m%2FAlffwpRxDC6MOW9vfwdw%3D%3D",
+        "date": "2025-04-30T00:00:00.000Z"
       }
     },
     {
       "27": {
-        "title": "Software Developer",
-        "company": "Motion Recruitment",
-        "link": "https://www.linkedin.com/jobs/view/software-developer-at-motion-recruitment-4203484167?position=27&pageNum=0&refId=11A%2BzfjCToA03h7cXvhjaQ%3D%3D&trackingId=rUdYMZlTBolDe%2FyAith19g%3D%3D",
-        "date": "2025-04-29T00:00:00.000Z"
+        "title": "Remote Engineer, Data, I",
+        "company": {
+          "companyName": "Jobs via Lensa",
+          "companyLink": "https://www.linkedin.com/company/lensa?trk=public_jobs_jserp-result_job-search-card-subtitle"
+        },
+        "link": "https://www.linkedin.com/jobs/view/remote-engineer-data-i-at-jobs-via-lensa-4218041550?position=27&pageNum=0&refId=cAcz6BBikXgtHEhKDw1plA%3D%3D&trackingId=Iw8XBZfD5m9XCEqe3oplhA%3D%3D",
+        "date": "2025-04-30T00:00:00.000Z"
       }
     },
     {
       "28": {
-        "title": "Java Developer",
-        "company": "Numentica",
-        "link": "https://www.linkedin.com/jobs/view/java-developer-at-numentica-4216483473?position=28&pageNum=0&refId=11A%2BzfjCToA03h7cXvhjaQ%3D%3D&trackingId=T8dBITuah6F97xxRJ4%2F9aw%3D%3D",
-        "date": "2025-04-28T00:00:00.000Z"
+        "title": "Junior Back End DotNet / Junior Full Stack DotNet Engineer / Tax Technology / Dallas / NYC",
+        "company": {
+          "companyName": "Motion Recruitment",
+          "companyLink": "https://www.linkedin.com/company/motion-recruitment-partners?trk=public_jobs_jserp-result_job-search-card-subtitle"
+        },
+        "link": "https://www.linkedin.com/jobs/view/junior-back-end-dotnet-junior-full-stack-dotnet-engineer-tax-technology-dallas-nyc-at-motion-recruitment-4204296751?position=28&pageNum=0&refId=cAcz6BBikXgtHEhKDw1plA%3D%3D&trackingId=itcCmCVJehpYjYeVIISk7g%3D%3D",
+        "date": "2025-04-30T00:00:00.000Z"
       }
     },
     {
       "29": {
-        "title": "Junior QA Engineer",
-        "company": "SmartVault",
-        "link": "https://www.linkedin.com/jobs/view/junior-qa-engineer-at-smartvault-4217386608?position=29&pageNum=0&refId=11A%2BzfjCToA03h7cXvhjaQ%3D%3D&trackingId=YylZwHOHSeVvgbkffQZU6A%3D%3D",
-        "date": "2025-04-29T00:00:00.000Z"
+        "title": "Junior Java Developer",
+        "company": {
+          "companyName": "WorkinVirtual",
+          "companyLink": "https://pk.linkedin.com/company/workinvirtual?trk=public_jobs_jserp-result_job-search-card-subtitle"
+        },
+        "link": "https://www.linkedin.com/jobs/view/junior-java-developer-at-workinvirtual-4219689614?position=29&pageNum=0&refId=cAcz6BBikXgtHEhKDw1plA%3D%3D&trackingId=sdhDgx4Yt6qHU3GghyWlrg%3D%3D",
+        "date": "2025-04-30T00:00:00.000Z"
       }
     },
     {
       "30": {
-        "title": "Backend Software Engineer (EAA)",
-        "company": "Coinbase",
-        "link": "https://www.linkedin.com/jobs/view/backend-software-engineer-eaa-at-coinbase-4203549700?position=30&pageNum=0&refId=11A%2BzfjCToA03h7cXvhjaQ%3D%3D&trackingId=mxTu%2FnUlCH81gNQOotjwHg%3D%3D",
-        "date": "2025-04-29T00:00:00.000Z"
+        "title": "FullStack Engineer",
+        "company": {
+          "companyName": "TieTalent",
+          "companyLink": "https://ch.linkedin.com/company/tietalent?trk=public_jobs_jserp-result_job-search-card-subtitle"
+        },
+        "link": "https://www.linkedin.com/jobs/view/fullstack-engineer-at-tietalent-4219675817?position=30&pageNum=0&refId=cAcz6BBikXgtHEhKDw1plA%3D%3D&trackingId=9IFdKox1KjKPlV%2BnBZ%2BPXw%3D%3D",
+        "date": "2025-04-30T00:00:00.000Z"
       }
     },
     {
       "31": {
-        "title": "Software Developer, Services",
-        "company": "Slice",
-        "link": "https://www.linkedin.com/jobs/view/software-developer-services-at-slice-4217368343?position=31&pageNum=0&refId=11A%2BzfjCToA03h7cXvhjaQ%3D%3D&trackingId=XNfTBZUcsRKoxdcWKDB7Xw%3D%3D",
-        "date": "2025-04-29T00:00:00.000Z"
+        "title": "Solutions Engineer I",
+        "company": {
+          "companyName": "Stord",
+          "companyLink": "https://www.linkedin.com/company/stord?trk=public_jobs_jserp-result_job-search-card-subtitle"
+        },
+        "link": "https://www.linkedin.com/jobs/view/solutions-engineer-i-at-stord-4217749668?position=31&pageNum=0&refId=cAcz6BBikXgtHEhKDw1plA%3D%3D&trackingId=O8%2F3zJQLGfQx9c8ruMOwcQ%3D%3D",
+        "date": "2025-04-30T00:00:00.000Z"
       }
     },
     {
       "32": {
-        "title": "Software Developer, Embedded",
-        "company": "Slice",
-        "link": "https://www.linkedin.com/jobs/view/software-developer-embedded-at-slice-4217366432?position=32&pageNum=0&refId=11A%2BzfjCToA03h7cXvhjaQ%3D%3D&trackingId=EsWU9SjZfNZenNXezuqb7A%3D%3D",
-        "date": "2025-04-29T00:00:00.000Z"
+        "title": "Graduate Data Science Engineer",
+        "company": {
+          "companyName": [],
+          "companyLink": ""
+        },
+        "link": "https://www.linkedin.com/jobs/view/graduate-data-science-engineer-4219401436?position=32&pageNum=0&refId=cAcz6BBikXgtHEhKDw1plA%3D%3D&trackingId=%2BXLWaiOJ53QgO1v0HbR5zw%3D%3D&trk=public_jobs_jserp-result_search-card",
+        "date": "2025-04-30T00:00:00.000Z"
       }
     },
     {
       "33": {
-        "title": "Software Engineer III",
-        "company": "Aditi Consulting",
-        "link": "https://www.linkedin.com/jobs/view/software-engineer-iii-at-aditi-consulting-4205958268?position=33&pageNum=0&refId=11A%2BzfjCToA03h7cXvhjaQ%3D%3D&trackingId=IT4aPqJsmEz51stt%2BvKypw%3D%3D",
-        "date": "2025-04-29T00:00:00.000Z"
+        "title": "Java Developer - Remote",
+        "company": {
+          "companyName": "Jobs via Lensa",
+          "companyLink": "https://www.linkedin.com/company/lensa?trk=public_jobs_jserp-result_job-search-card-subtitle"
+        },
+        "link": "https://www.linkedin.com/jobs/view/java-developer-remote-at-jobs-via-lensa-4218038841?position=33&pageNum=0&refId=cAcz6BBikXgtHEhKDw1plA%3D%3D&trackingId=gHnusYCnErA%2Fx%2B5b8AOzUA%3D%3D",
+        "date": "2025-04-30T00:00:00.000Z"
       }
     },
     {
       "34": {
-        "title": "Web Designer/Developer (contract/freelance)",
-        "company": "Local Wisdom",
-        "link": "https://www.linkedin.com/jobs/view/web-designer-developer-contract-freelance-at-local-wisdom-4219043263?position=34&pageNum=0&refId=11A%2BzfjCToA03h7cXvhjaQ%3D%3D&trackingId=UG6yapnVBQNmal%2FwyxABbA%3D%3D",
-        "date": "2025-04-28T00:00:00.000Z"
+        "title": "Summer Interns - Dallas & Pasadena",
+        "company": {
+          "companyName": "Bluebeam",
+          "companyLink": "https://www.linkedin.com/company/bluebeam-software?trk=public_jobs_jserp-result_job-search-card-subtitle"
+        },
+        "link": "https://www.linkedin.com/jobs/view/summer-interns-dallas-pasadena-at-bluebeam-4048845184?position=34&pageNum=0&refId=cAcz6BBikXgtHEhKDw1plA%3D%3D&trackingId=5ESso9G%2B7NTmHg29Q1H41g%3D%3D",
+        "date": "2025-04-30T00:00:00.000Z"
       }
     },
     {
       "35": {
-        "title": "Remote Engineer, Data, I",
-        "company": "Jobs via Lensa",
-        "link": "https://www.linkedin.com/jobs/view/remote-engineer-data-i-at-jobs-via-lensa-4217810500?position=35&pageNum=0&refId=11A%2BzfjCToA03h7cXvhjaQ%3D%3D&trackingId=lO1OEpu0st5a0CNW9YFIEw%3D%3D",
+        "title": "Frontend Engineer",
+        "company": {
+          "companyName": "Motion Recruitment",
+          "companyLink": "https://www.linkedin.com/company/motion-recruitment-partners?trk=public_jobs_jserp-result_job-search-card-subtitle"
+        },
+        "link": "https://www.linkedin.com/jobs/view/frontend-engineer-at-motion-recruitment-4209869004?position=35&pageNum=0&refId=cAcz6BBikXgtHEhKDw1plA%3D%3D&trackingId=Pb%2BV%2BnFER5qF2VwjnBk2lQ%3D%3D",
         "date": "2025-04-29T00:00:00.000Z"
       }
     },
     {
       "36": {
-        "title": "React Developer",
-        "company": "Collabera",
-        "link": "https://www.linkedin.com/jobs/view/react-developer-at-collabera-4216800650?position=36&pageNum=0&refId=11A%2BzfjCToA03h7cXvhjaQ%3D%3D&trackingId=Eodpf1NsiDnCLkeePTBCFg%3D%3D",
-        "date": "2025-04-28T00:00:00.000Z"
+        "title": "Applied Science Intern",
+        "company": {
+          "companyName": "Relativity",
+          "companyLink": "https://www.linkedin.com/company/relativityhq?trk=public_jobs_jserp-result_job-search-card-subtitle"
+        },
+        "link": "https://www.linkedin.com/jobs/view/applied-science-intern-at-relativity-4167313067?position=36&pageNum=0&refId=cAcz6BBikXgtHEhKDw1plA%3D%3D&trackingId=wMGTe%2BzeaiMNm3Q5nblZKA%3D%3D",
+        "date": "2025-04-30T00:00:00.000Z"
       }
     },
     {
       "37": {
-        "title": "Machine Learning Engineer, Co-op",
-        "company": "Ancestry",
-        "link": "https://www.linkedin.com/jobs/view/machine-learning-engineer-co-op-at-ancestry-4219080087?position=37&pageNum=0&refId=11A%2BzfjCToA03h7cXvhjaQ%3D%3D&trackingId=QlKzMrwsYLkPxHis0715sg%3D%3D",
+        "title": "Machine Learning Engineer",
+        "company": {
+          "companyName": "Shaped",
+          "companyLink": "https://www.linkedin.com/company/shapedai?trk=public_jobs_jserp-result_job-search-card-subtitle"
+        },
+        "link": "https://www.linkedin.com/jobs/view/machine-learning-engineer-at-shaped-4219191150?position=37&pageNum=0&refId=cAcz6BBikXgtHEhKDw1plA%3D%3D&trackingId=sWHHVnFQtzIks6THtnczTw%3D%3D",
         "date": "2025-04-29T00:00:00.000Z"
       }
     },
     {
       "38": {
-        "title": "[REMOTE] Full Stack Shopify Developer",
-        "company": "Jobs via Lensa",
-        "link": "https://www.linkedin.com/jobs/view/remote-full-stack-shopify-developer-at-jobs-via-lensa-4217816245?position=38&pageNum=0&refId=11A%2BzfjCToA03h7cXvhjaQ%3D%3D&trackingId=jBebvl73DgsedXcETWjChg%3D%3D",
-        "date": "2025-04-29T00:00:00.000Z"
+        "title": "Remote Engineer, Data, I",
+        "company": {
+          "companyName": "Jobs via Lensa",
+          "companyLink": "https://www.linkedin.com/company/lensa?trk=public_jobs_jserp-result_job-search-card-subtitle"
+        },
+        "link": "https://www.linkedin.com/jobs/view/remote-engineer-data-i-at-jobs-via-lensa-4218038838?position=38&pageNum=0&refId=cAcz6BBikXgtHEhKDw1plA%3D%3D&trackingId=U05bab0NfEakSa6y%2FS16Mg%3D%3D",
+        "date": "2025-04-30T00:00:00.000Z"
       }
     },
     {
       "39": {
-        "title": "Software Engineer – Observability, Co-op",
-        "company": "Ancestry",
-        "link": "https://www.linkedin.com/jobs/view/software-engineer-%E2%80%93-observability-co-op-at-ancestry-4219092756?position=39&pageNum=0&refId=11A%2BzfjCToA03h7cXvhjaQ%3D%3D&trackingId=X8B4g2w1Sh1yW3%2FhQMPbjg%3D%3D",
-        "date": "2025-04-29T00:00:00.000Z"
+        "title": "Remote Engineer, Data, I",
+        "company": {
+          "companyName": "Jobs via Lensa",
+          "companyLink": "https://www.linkedin.com/company/lensa?trk=public_jobs_jserp-result_job-search-card-subtitle"
+        },
+        "link": "https://www.linkedin.com/jobs/view/remote-engineer-data-i-at-jobs-via-lensa-4218041642?position=39&pageNum=0&refId=cAcz6BBikXgtHEhKDw1plA%3D%3D&trackingId=73lHJEHOjUm6TEm3Jdnxvw%3D%3D",
+        "date": "2025-04-30T00:00:00.000Z"
       }
     },
     {
       "40": {
-        "title": "Software Engineer",
-        "company": "Ledgent Technology",
-        "link": "https://www.linkedin.com/jobs/view/software-engineer-at-ledgent-technology-4216483054?position=40&pageNum=0&refId=11A%2BzfjCToA03h7cXvhjaQ%3D%3D&trackingId=TQnnC7skJdiECOHZ%2FfFEpw%3D%3D",
-        "date": "2025-04-28T00:00:00.000Z"
+        "title": "Remote Engineer, Data, I",
+        "company": {
+          "companyName": "Jobs via Lensa",
+          "companyLink": "https://www.linkedin.com/company/lensa?trk=public_jobs_jserp-result_job-search-card-subtitle"
+        },
+        "link": "https://www.linkedin.com/jobs/view/remote-engineer-data-i-at-jobs-via-lensa-4218044217?position=40&pageNum=0&refId=cAcz6BBikXgtHEhKDw1plA%3D%3D&trackingId=gZiZgRnFfY0wadTFyZYC%2Fw%3D%3D",
+        "date": "2025-04-30T00:00:00.000Z"
       }
     },
     {
       "41": {
-        "title": "Remote Engineer, Data, I",
-        "company": "Jobs via Lensa",
-        "link": "https://www.linkedin.com/jobs/view/remote-engineer-data-i-at-jobs-via-lensa-4217810474?position=41&pageNum=0&refId=11A%2BzfjCToA03h7cXvhjaQ%3D%3D&trackingId=48HBtJls8Mrl81Ql9YTM4w%3D%3D",
+        "title": "Data Engineer",
+        "company": {
+          "companyName": "Scholastic",
+          "companyLink": "https://www.linkedin.com/company/scholastic?trk=public_jobs_jserp-result_job-search-card-subtitle"
+        },
+        "link": "https://www.linkedin.com/jobs/view/data-engineer-at-scholastic-4219346956?position=41&pageNum=0&refId=cAcz6BBikXgtHEhKDw1plA%3D%3D&trackingId=4NaqNoqdxlMIGbGqcY%2Bl0A%3D%3D",
         "date": "2025-04-29T00:00:00.000Z"
       }
     },
     {
       "42": {
-        "title": "Software Engineer",
-        "company": "Helix Recruitment Consulting",
-        "link": "https://www.linkedin.com/jobs/view/software-engineer-at-helix-recruitment-consulting-4217857617?position=42&pageNum=0&refId=11A%2BzfjCToA03h7cXvhjaQ%3D%3D&trackingId=aovH%2BLcIWCvPHDwq3WwlIQ%3D%3D",
-        "date": "2025-04-29T00:00:00.000Z"
+        "title": "Software Engineer II (Remote)",
+        "company": {
+          "companyName": "Jobs via Lensa",
+          "companyLink": "https://www.linkedin.com/company/lensa?trk=public_jobs_jserp-result_job-search-card-subtitle"
+        },
+        "link": "https://www.linkedin.com/jobs/view/software-engineer-ii-remote-at-jobs-via-lensa-4218038935?position=42&pageNum=0&refId=cAcz6BBikXgtHEhKDw1plA%3D%3D&trackingId=TeVzHg5cEckRM%2B3jbjKs%2BA%3D%3D",
+        "date": "2025-04-30T00:00:00.000Z"
       }
     },
     {
       "43": {
-        "title": "Fullstack Engineer - Remote",
-        "company": "iO Associates - US",
-        "link": "https://www.linkedin.com/jobs/view/fullstack-engineer-remote-at-io-associates-us-4216802860?position=43&pageNum=0&refId=11A%2BzfjCToA03h7cXvhjaQ%3D%3D&trackingId=P%2BktNR7I2JrTmiYfWDwTrg%3D%3D",
-        "date": "2025-04-28T00:00:00.000Z"
+        "title": "Remote Engineer, Data, I",
+        "company": {
+          "companyName": "Jobs via Lensa",
+          "companyLink": "https://www.linkedin.com/company/lensa?trk=public_jobs_jserp-result_job-search-card-subtitle"
+        },
+        "link": "https://www.linkedin.com/jobs/view/remote-engineer-data-i-at-jobs-via-lensa-4218045197?position=43&pageNum=0&refId=cAcz6BBikXgtHEhKDw1plA%3D%3D&trackingId=Xzoo%2FbqAyW5OKYpD2COOfw%3D%3D",
+        "date": "2025-04-30T00:00:00.000Z"
       }
     },
     {
       "44": {
-        "title": "Software Developer, Developer Experience",
-        "company": "Slice",
-        "link": "https://www.linkedin.com/jobs/view/software-developer-developer-experience-at-slice-4217364631?position=44&pageNum=0&refId=11A%2BzfjCToA03h7cXvhjaQ%3D%3D&trackingId=nwuz1PrZs5UXLqGxpOewnA%3D%3D",
-        "date": "2025-04-29T00:00:00.000Z"
+        "title": "Software Engineering Intern (Remote in Colorado)",
+        "company": {
+          "companyName": "TieTalent",
+          "companyLink": "https://ch.linkedin.com/company/tietalent?trk=public_jobs_jserp-result_job-search-card-subtitle"
+        },
+        "link": "https://www.linkedin.com/jobs/view/software-engineering-intern-remote-in-colorado-at-tietalent-4219691409?position=44&pageNum=0&refId=cAcz6BBikXgtHEhKDw1plA%3D%3D&trackingId=5L7VRyqAiiLYgT8HzBGq8A%3D%3D",
+        "date": "2025-04-30T00:00:00.000Z"
       }
     },
     {
       "45": {
-        "title": "Software Quality Assurance Student Engineer",
-        "company": "EPRI",
-        "link": "https://www.linkedin.com/jobs/view/software-quality-assurance-student-engineer-at-epri-4217091703?position=45&pageNum=0&refId=11A%2BzfjCToA03h7cXvhjaQ%3D%3D&trackingId=frxv1%2ByLevHtrYfBZoLm8g%3D%3D",
+        "title": "Data Engineer Co-Op",
+        "company": {
+          "companyName": "Verana Health",
+          "companyLink": "https://www.linkedin.com/company/verana-health?trk=public_jobs_jserp-result_job-search-card-subtitle"
+        },
+        "link": "https://www.linkedin.com/jobs/view/data-engineer-co-op-at-verana-health-4218222033?position=45&pageNum=0&refId=cAcz6BBikXgtHEhKDw1plA%3D%3D&trackingId=AoU0OQrVuQekimC8R%2BIU6Q%3D%3D",
         "date": "2025-04-29T00:00:00.000Z"
       }
     },
     {
       "46": {
-        "title": "Remote Engineer, Data, I",
-        "company": "Jobs via Lensa",
-        "link": "https://www.linkedin.com/jobs/view/remote-engineer-data-i-at-jobs-via-lensa-4217812422?position=46&pageNum=0&refId=11A%2BzfjCToA03h7cXvhjaQ%3D%3D&trackingId=URAJAjPjIbJWonUXnBoR3g%3D%3D",
+        "title": "Combat Game Designer (Remote, Hybrid, or In-Office)",
+        "company": {
+          "companyName": "Pipeworks Studios",
+          "companyLink": "https://www.linkedin.com/company/pipeworks-studios?trk=public_jobs_jserp-result_job-search-card-subtitle"
+        },
+        "link": "https://www.linkedin.com/jobs/view/combat-game-designer-remote-hybrid-or-in-office-at-pipeworks-studios-4219329350?position=46&pageNum=0&refId=cAcz6BBikXgtHEhKDw1plA%3D%3D&trackingId=4y1fWDpcZvrIFEPo%2F%2B327A%3D%3D",
         "date": "2025-04-29T00:00:00.000Z"
       }
     },
     {
       "47": {
-        "title": "Software Engineer",
-        "company": "Qubitra Tech",
-        "link": "https://www.linkedin.com/jobs/view/software-engineer-at-qubitra-tech-4217363585?position=47&pageNum=0&refId=11A%2BzfjCToA03h7cXvhjaQ%3D%3D&trackingId=VcEUM9GLaGVeNIJP4ky4IQ%3D%3D",
-        "date": "2025-04-29T00:00:00.000Z"
+        "title": "Mobile Developer (Full Time) - Remote Work",
+        "company": {
+          "companyName": "Jobs via Lensa",
+          "companyLink": "https://www.linkedin.com/company/lensa?trk=public_jobs_jserp-result_job-search-card-subtitle"
+        },
+        "link": "https://www.linkedin.com/jobs/view/mobile-developer-full-time-remote-work-at-jobs-via-lensa-4218039743?position=47&pageNum=0&refId=cAcz6BBikXgtHEhKDw1plA%3D%3D&trackingId=l%2FGlotFs5qwoZAJS7RnIRw%3D%3D",
+        "date": "2025-04-30T00:00:00.000Z"
       }
     },
     {
       "48": {
         "title": "Remote Engineer, Data, I",
-        "company": "Jobs via Lensa",
-        "link": "https://www.linkedin.com/jobs/view/remote-engineer-data-i-at-jobs-via-lensa-4217814345?position=48&pageNum=0&refId=11A%2BzfjCToA03h7cXvhjaQ%3D%3D&trackingId=%2BbRkZ6SRMOdvMXq3I%2BA49g%3D%3D",
-        "date": "2025-04-29T00:00:00.000Z"
+        "company": {
+          "companyName": "Jobs via Lensa",
+          "companyLink": "https://www.linkedin.com/company/lensa?trk=public_jobs_jserp-result_job-search-card-subtitle"
+        },
+        "link": "https://www.linkedin.com/jobs/view/remote-engineer-data-i-at-jobs-via-lensa-4218043260?position=48&pageNum=0&refId=cAcz6BBikXgtHEhKDw1plA%3D%3D&trackingId=Gm1m4Lvn%2BgC74dOUh2Vsvg%3D%3D",
+        "date": "2025-04-30T00:00:00.000Z"
       }
     },
     {
       "49": {
-        "title": "Application Developer",
-        "company": "Acuserv Solutions",
-        "link": "https://www.linkedin.com/jobs/view/application-developer-at-acuserv-solutions-4219133441?position=49&pageNum=0&refId=11A%2BzfjCToA03h7cXvhjaQ%3D%3D&trackingId=DXn18olF4Jtlyd1XOTWy1g%3D%3D",
-        "date": "2025-04-29T00:00:00.000Z"
+        "title": "Quality Assurance Engineer",
+        "company": {
+          "companyName": "TieTalent",
+          "companyLink": "https://ch.linkedin.com/company/tietalent?trk=public_jobs_jserp-result_job-search-card-subtitle"
+        },
+        "link": "https://www.linkedin.com/jobs/view/quality-assurance-engineer-at-tietalent-4219638779?position=49&pageNum=0&refId=cAcz6BBikXgtHEhKDw1plA%3D%3D&trackingId=R4zugXsXOr9K5TGp2uhpfQ%3D%3D",
+        "date": "2025-04-30T00:00:00.000Z"
       }
     },
     {
       "50": {
-        "title": "Data Engineer / Scientist",
-        "company": "Kforce Inc",
-        "link": "https://www.linkedin.com/jobs/view/data-engineer-scientist-at-kforce-inc-4219146751?position=50&pageNum=0&refId=11A%2BzfjCToA03h7cXvhjaQ%3D%3D&trackingId=YOO0WuhOnpih2qWImtuoEQ%3D%3D",
-        "date": "2025-04-29T00:00:00.000Z"
+        "title": "Remote Engineer, Data, I",
+        "company": {
+          "companyName": "Jobs via Lensa",
+          "companyLink": "https://www.linkedin.com/company/lensa?trk=public_jobs_jserp-result_job-search-card-subtitle"
+        },
+        "link": "https://www.linkedin.com/jobs/view/remote-engineer-data-i-at-jobs-via-lensa-4218044264?position=50&pageNum=0&refId=cAcz6BBikXgtHEhKDw1plA%3D%3D&trackingId=zc6SIdUaHUOF08nO42CGfw%3D%3D",
+        "date": "2025-04-30T00:00:00.000Z"
       }
     },
     {
       "51": {
         "title": "Remote Engineer, Data, I",
-        "company": "Jobs via Lensa",
-        "link": "https://www.linkedin.com/jobs/view/remote-engineer-data-i-at-jobs-via-lensa-4217814339?position=51&pageNum=0&refId=11A%2BzfjCToA03h7cXvhjaQ%3D%3D&trackingId=ZWKaCQQlxecDKQTQdECj7g%3D%3D",
-        "date": "2025-04-29T00:00:00.000Z"
+        "company": {
+          "companyName": "Jobs via Lensa",
+          "companyLink": "https://www.linkedin.com/company/lensa?trk=public_jobs_jserp-result_job-search-card-subtitle"
+        },
+        "link": "https://www.linkedin.com/jobs/view/remote-engineer-data-i-at-jobs-via-lensa-4218045201?position=51&pageNum=0&refId=cAcz6BBikXgtHEhKDw1plA%3D%3D&trackingId=zZaXxSH9X%2B9p0pMfvtA8NA%3D%3D",
+        "date": "2025-04-30T00:00:00.000Z"
       }
     },
     {
       "52": {
-        "title": "Remote Engineer, Data, I",
-        "company": "Jobs via Lensa",
-        "link": "https://www.linkedin.com/jobs/view/remote-engineer-data-i-at-jobs-via-lensa-4217817191?position=52&pageNum=0&refId=11A%2BzfjCToA03h7cXvhjaQ%3D%3D&trackingId=e4%2BoFLBvcuVu9UUzNmz%2BYw%3D%3D",
+        "title": "Software Engineer IV",
+        "company": {
+          "companyName": "Aditi Consulting",
+          "companyLink": "https://www.linkedin.com/company/aditiconsulting?trk=public_jobs_jserp-result_job-search-card-subtitle"
+        },
+        "link": "https://www.linkedin.com/jobs/view/software-engineer-iv-at-aditi-consulting-4219353130?position=52&pageNum=0&refId=cAcz6BBikXgtHEhKDw1plA%3D%3D&trackingId=26TOP7puRAHXuUm7WBryEw%3D%3D",
         "date": "2025-04-29T00:00:00.000Z"
       }
     },
     {
       "53": {
-        "title": "Test Engineer",
-        "company": "Ventiva",
-        "link": "https://www.linkedin.com/jobs/view/test-engineer-at-ventiva-4217569140?position=53&pageNum=0&refId=11A%2BzfjCToA03h7cXvhjaQ%3D%3D&trackingId=IcBKVw%2BA%2Bnc%2F96eoxkFu7w%3D%3D",
-        "date": "2025-04-29T00:00:00.000Z"
+        "title": "Software Engineer, Machine Learning",
+        "company": {
+          "companyName": "TieTalent",
+          "companyLink": "https://ch.linkedin.com/company/tietalent?trk=public_jobs_jserp-result_job-search-card-subtitle"
+        },
+        "link": "https://www.linkedin.com/jobs/view/software-engineer-machine-learning-at-tietalent-4219684946?position=53&pageNum=0&refId=cAcz6BBikXgtHEhKDw1plA%3D%3D&trackingId=nlmDhEOg3HH9VYOA5VivOQ%3D%3D",
+        "date": "2025-04-30T00:00:00.000Z"
       }
     },
     {
       "54": {
-        "title": "Data Engineer",
-        "company": "ROR",
-        "link": "https://www.linkedin.com/jobs/view/data-engineer-at-ror-4217399400?position=54&pageNum=0&refId=11A%2BzfjCToA03h7cXvhjaQ%3D%3D&trackingId=3EhKWI2h9DvH0ciBSd2TEQ%3D%3D",
-        "date": "2025-04-29T00:00:00.000Z"
+        "title": "Remote Engineer, Data, I",
+        "company": {
+          "companyName": "Jobs via Lensa",
+          "companyLink": "https://www.linkedin.com/company/lensa?trk=public_jobs_jserp-result_job-search-card-subtitle"
+        },
+        "link": "https://www.linkedin.com/jobs/view/remote-engineer-data-i-at-jobs-via-lensa-4218041653?position=54&pageNum=0&refId=cAcz6BBikXgtHEhKDw1plA%3D%3D&trackingId=R%2Fiwyh3Vmk%2FoKap27eV%2BrA%3D%3D",
+        "date": "2025-04-30T00:00:00.000Z"
       }
     },
     {
       "55": {
         "title": "Remote Engineer, Data, I",
-        "company": "Jobs via Lensa",
-        "link": "https://www.linkedin.com/jobs/view/remote-engineer-data-i-at-jobs-via-lensa-4217811503?position=55&pageNum=0&refId=11A%2BzfjCToA03h7cXvhjaQ%3D%3D&trackingId=6%2F9OJtcGBKrotwnTVjWvlw%3D%3D",
-        "date": "2025-04-29T00:00:00.000Z"
+        "company": {
+          "companyName": "Jobs via Lensa",
+          "companyLink": "https://www.linkedin.com/company/lensa?trk=public_jobs_jserp-result_job-search-card-subtitle"
+        },
+        "link": "https://www.linkedin.com/jobs/view/remote-engineer-data-i-at-jobs-via-lensa-4218038942?position=55&pageNum=0&refId=cAcz6BBikXgtHEhKDw1plA%3D%3D&trackingId=HeuSTfwvMlqrXKrrxIG%2BoQ%3D%3D",
+        "date": "2025-04-30T00:00:00.000Z"
       }
     },
     {
       "56": {
-        "title": "Software Engineer, Backend - (Blockchain Platform - Wallet)",
-        "company": "Coinbase",
-        "link": "https://www.linkedin.com/jobs/view/software-engineer-backend-blockchain-platform-wallet-at-coinbase-4203554723?position=56&pageNum=0&refId=11A%2BzfjCToA03h7cXvhjaQ%3D%3D&trackingId=RUFJMyLunpvj6nhZX1EB2g%3D%3D",
-        "date": "2025-04-29T00:00:00.000Z"
+        "title": "Remote Engineer, Data, I",
+        "company": {
+          "companyName": "Jobs via Lensa",
+          "companyLink": "https://www.linkedin.com/company/lensa?trk=public_jobs_jserp-result_job-search-card-subtitle"
+        },
+        "link": "https://www.linkedin.com/jobs/view/remote-engineer-data-i-at-jobs-via-lensa-4218042448?position=56&pageNum=0&refId=cAcz6BBikXgtHEhKDw1plA%3D%3D&trackingId=NacDc%2BsFPkQfPHKolOJOAg%3D%3D",
+        "date": "2025-04-30T00:00:00.000Z"
       }
     },
     {
       "57": {
-        "title": "Full Stack Software Engineer",
-        "company": "Trissential",
-        "link": "https://www.linkedin.com/jobs/view/full-stack-software-engineer-at-trissential-4217337181?position=57&pageNum=0&refId=11A%2BzfjCToA03h7cXvhjaQ%3D%3D&trackingId=Rq48ceds6Mk6CaL7ys0Njw%3D%3D",
-        "date": "2025-04-29T00:00:00.000Z"
+        "title": "Remote Engineer, Data, I",
+        "company": {
+          "companyName": "Jobs via Lensa",
+          "companyLink": "https://www.linkedin.com/company/lensa?trk=public_jobs_jserp-result_job-search-card-subtitle"
+        },
+        "link": "https://www.linkedin.com/jobs/view/remote-engineer-data-i-at-jobs-via-lensa-4218038967?position=57&pageNum=0&refId=cAcz6BBikXgtHEhKDw1plA%3D%3D&trackingId=kiJvINvymtGDzJPL5uCUyA%3D%3D",
+        "date": "2025-04-30T00:00:00.000Z"
       }
     },
     {
       "58": {
-        "title": "Staff Software Engineer",
-        "company": "Anima",
-        "link": "https://www.linkedin.com/jobs/view/staff-software-engineer-at-anima-4148950884?position=58&pageNum=0&refId=11A%2BzfjCToA03h7cXvhjaQ%3D%3D&trackingId=JDP1d23UlpIGi6wHikdYsQ%3D%3D",
-        "date": "2025-04-29T00:00:00.000Z"
+        "title": "Engineer, Big Data - Databricks/Python/SQL/Power BI - Remote",
+        "company": {
+          "companyName": "Jobs via Lensa",
+          "companyLink": "https://www.linkedin.com/company/lensa?trk=public_jobs_jserp-result_job-search-card-subtitle"
+        },
+        "link": "https://www.linkedin.com/jobs/view/engineer-big-data-databricks-python-sql-power-bi-remote-at-jobs-via-lensa-4218041693?position=58&pageNum=0&refId=cAcz6BBikXgtHEhKDw1plA%3D%3D&trackingId=hBaGV3JwJJuKb8s0n1FkrQ%3D%3D",
+        "date": "2025-04-30T00:00:00.000Z"
       }
     },
     {
       "59": {
-        "title": "Software Engineer - Solutions Engineering",
-        "company": "Canonical",
-        "link": "https://www.linkedin.com/jobs/view/software-engineer-solutions-engineering-at-canonical-4219115771?position=59&pageNum=0&refId=11A%2BzfjCToA03h7cXvhjaQ%3D%3D&trackingId=gtYp%2FMiiw3J2j7pDT8nshw%3D%3D",
+        "title": "Web Developer- Remote role",
+        "company": {
+          "companyName": "Jobs via Dice",
+          "companyLink": "https://www.linkedin.com/company/jobs-via-dice?trk=public_jobs_jserp-result_job-search-card-subtitle"
+        },
+        "link": "https://www.linkedin.com/jobs/view/web-developer-remote-role-at-jobs-via-dice-4217739804?position=59&pageNum=0&refId=cAcz6BBikXgtHEhKDw1plA%3D%3D&trackingId=QtseZ066ZMw4PnPQiGTdVQ%3D%3D",
         "date": "2025-04-29T00:00:00.000Z"
+      }
+    },
+    {
+      "60": {
+        "title": "IT Software Engineer - Build Team Remote",
+        "company": {
+          "companyName": "Jobs via Lensa",
+          "companyLink": "https://www.linkedin.com/company/lensa?trk=public_jobs_jserp-result_job-search-card-subtitle"
+        },
+        "link": "https://www.linkedin.com/jobs/view/it-software-engineer-build-team-remote-at-jobs-via-lensa-4218041736?position=60&pageNum=0&refId=cAcz6BBikXgtHEhKDw1plA%3D%3D&trackingId=y6WmfeAIValfgrYMfW6d1w%3D%3D",
+        "date": "2025-04-30T00:00:00.000Z"
       }
     }
   ],
   "Data Analyst": [
     {
       "1": {
-        "title": "Data Analyst",
-        "company": "SFR Analytics",
-        "link": "https://www.linkedin.com/jobs/view/data-analyst-at-sfr-analytics-4216492834?position=1&pageNum=0&refId=Jz5jteTQuhzMcnQGioMADQ%3D%3D&trackingId=sEDTfq5MoRiynzaqLKGiiQ%3D%3D",
-        "date": "2025-04-28T00:00:00.000Z"
+        "title": "Data Analyst - Corporate",
+        "company": {
+          "companyName": "YipitData",
+          "companyLink": "https://www.linkedin.com/company/yipitllc?trk=public_jobs_jserp-result_job-search-card-subtitle"
+        },
+        "link": "https://www.linkedin.com/jobs/view/data-analyst-corporate-at-yipitdata-4219495674?position=1&pageNum=0&refId=BdnLT8ctOLxhMVav5GgD6A%3D%3D&trackingId=du1NeZ3Qt7enOoUsb3dPmw%3D%3D",
+        "date": "2025-04-30T00:00:00.000Z"
       }
     },
     {
       "2": {
-        "title": "Insights Analyst",
-        "company": "NIQ for Retail",
-        "link": "https://www.linkedin.com/jobs/view/insights-analyst-at-niq-for-retail-4219071246?position=2&pageNum=0&refId=Jz5jteTQuhzMcnQGioMADQ%3D%3D&trackingId=Pu5uD%2BBgrZk2YHcRepMwDw%3D%3D",
-        "date": "2025-04-28T00:00:00.000Z"
+        "title": "Data Analyst",
+        "company": {
+          "companyName": "TieTalent",
+          "companyLink": "https://ch.linkedin.com/company/tietalent?trk=public_jobs_jserp-result_job-search-card-subtitle"
+        },
+        "link": "https://www.linkedin.com/jobs/view/data-analyst-at-tietalent-4219635504?position=2&pageNum=0&refId=BdnLT8ctOLxhMVav5GgD6A%3D%3D&trackingId=efIOHwHyl0GXj6vHchb0%2FQ%3D%3D",
+        "date": "2025-04-30T00:00:00.000Z"
       }
     },
     {
       "3": {
-        "title": "Data Analyst",
-        "company": "Cardinal Health",
-        "link": "https://www.linkedin.com/jobs/view/data-analyst-at-cardinal-health-4217050616?position=3&pageNum=0&refId=Jz5jteTQuhzMcnQGioMADQ%3D%3D&trackingId=OSXVZ%2B3r9oShNuMWXiFKVQ%3D%3D",
-        "date": "2025-04-28T00:00:00.000Z"
+        "title": "Digital Support Data Analyst",
+        "company": {
+          "companyName": "America First Credit Union",
+          "companyLink": "https://www.linkedin.com/company/americafirstcreditunion?trk=public_jobs_jserp-result_job-search-card-subtitle"
+        },
+        "link": "https://www.linkedin.com/jobs/view/digital-support-data-analyst-at-america-first-credit-union-4218213569?position=3&pageNum=0&refId=BdnLT8ctOLxhMVav5GgD6A%3D%3D&trackingId=Z9bBuPGYaDAOjIWI5rvS6g%3D%3D",
+        "date": "2025-04-29T00:00:00.000Z"
       }
     },
     {
       "4": {
         "title": "Data Analyst (Healthcare Required) - CA ONLY - REMOTE",
-        "company": "Jobs via Lensa",
-        "link": "https://www.linkedin.com/jobs/view/data-analyst-healthcare-required-ca-only-remote-at-jobs-via-lensa-4217817221?position=4&pageNum=0&refId=Jz5jteTQuhzMcnQGioMADQ%3D%3D&trackingId=uUjZcCjJy54PiCPMuaJ1eA%3D%3D",
-        "date": "2025-04-29T00:00:00.000Z"
+        "company": {
+          "companyName": "Jobs via Lensa",
+          "companyLink": "https://www.linkedin.com/company/lensa?trk=public_jobs_jserp-result_job-search-card-subtitle"
+        },
+        "link": "https://www.linkedin.com/jobs/view/data-analyst-healthcare-required-ca-only-remote-at-jobs-via-lensa-4218038991?position=4&pageNum=0&refId=BdnLT8ctOLxhMVav5GgD6A%3D%3D&trackingId=czjubR%2BVgDLO3CjuCL5D1g%3D%3D",
+        "date": "2025-04-30T00:00:00.000Z"
       }
     },
     {
       "5": {
-        "title": "Insights Analyst",
-        "company": "GfK Boutique Research",
-        "link": "https://www.linkedin.com/jobs/view/insights-analyst-at-gfk-boutique-research-4219082804?position=5&pageNum=0&refId=Jz5jteTQuhzMcnQGioMADQ%3D%3D&trackingId=r1xDQBexzmsFwI%2FFE76NoQ%3D%3D",
-        "date": "2025-04-29T00:00:00.000Z"
+        "title": "Data Analyst (Healthcare Required) - CA ONLY - REMOTE",
+        "company": {
+          "companyName": "Jobs via Lensa",
+          "companyLink": "https://www.linkedin.com/company/lensa?trk=public_jobs_jserp-result_job-search-card-subtitle"
+        },
+        "link": "https://www.linkedin.com/jobs/view/data-analyst-healthcare-required-ca-only-remote-at-jobs-via-lensa-4218042346?position=5&pageNum=0&refId=BdnLT8ctOLxhMVav5GgD6A%3D%3D&trackingId=jnObfqKL4TOi6oiqeOSOUQ%3D%3D",
+        "date": "2025-04-30T00:00:00.000Z"
       }
     },
     {
       "6": {
-        "title": "Data Analyst (Healthcare Required) - CA ONLY - REMOTE",
-        "company": "Jobs via Lensa",
-        "link": "https://www.linkedin.com/jobs/view/data-analyst-healthcare-required-ca-only-remote-at-jobs-via-lensa-4217811475?position=6&pageNum=0&refId=Jz5jteTQuhzMcnQGioMADQ%3D%3D&trackingId=z%2B0sEkfFOsBxH7uw9GouxQ%3D%3D",
+        "title": "Intern, Data Visualization & Analytics",
+        "company": {
+          "companyName": "One Inc",
+          "companyLink": "https://www.linkedin.com/company/one-inc?trk=public_jobs_jserp-result_job-search-card-subtitle"
+        },
+        "link": "https://www.linkedin.com/jobs/view/intern-data-visualization-analytics-at-one-inc-4217885754?position=6&pageNum=0&refId=BdnLT8ctOLxhMVav5GgD6A%3D%3D&trackingId=b%2FJz5d1i%2FxR%2BjdPPeigojQ%3D%3D",
         "date": "2025-04-29T00:00:00.000Z"
       }
     },
     {
       "7": {
-        "title": "Data Analyst",
-        "company": "Cynera Tech",
-        "link": "https://www.linkedin.com/jobs/view/data-analyst-at-cynera-tech-4217550062?position=7&pageNum=0&refId=Jz5jteTQuhzMcnQGioMADQ%3D%3D&trackingId=JPtvnIYAwPPiKLHP%2BPTC6w%3D%3D",
+        "title": "Analytics Intern",
+        "company": {
+          "companyName": "Pronghorn",
+          "companyLink": "https://www.linkedin.com/company/pronghorn-co?trk=public_jobs_jserp-result_job-search-card-subtitle"
+        },
+        "link": "https://www.linkedin.com/jobs/view/analytics-intern-at-pronghorn-4217730315?position=7&pageNum=0&refId=BdnLT8ctOLxhMVav5GgD6A%3D%3D&trackingId=UXG8vb2o7NwShXsKt2sK4w%3D%3D",
         "date": "2025-04-29T00:00:00.000Z"
       }
     },
     {
       "8": {
-        "title": "Data Analyst (Healthcare Required) - CA ONLY - REMOTE",
-        "company": "Jobs via Lensa",
-        "link": "https://www.linkedin.com/jobs/view/data-analyst-healthcare-required-ca-only-remote-at-jobs-via-lensa-4217810462?position=8&pageNum=0&refId=Jz5jteTQuhzMcnQGioMADQ%3D%3D&trackingId=ooaEuyUAMVTA3O7a1wpeXQ%3D%3D",
-        "date": "2025-04-29T00:00:00.000Z"
+        "title": "Data Analyst 2 - Remote",
+        "company": {
+          "companyName": "Optum",
+          "companyLink": "https://www.linkedin.com/company/optum?trk=public_jobs_jserp-result_job-search-card-subtitle"
+        },
+        "link": "https://www.linkedin.com/jobs/view/data-analyst-2-remote-at-optum-4219484457?position=8&pageNum=0&refId=BdnLT8ctOLxhMVav5GgD6A%3D%3D&trackingId=IRR6MTPwDcnwq3foDOYUAg%3D%3D",
+        "date": "2025-04-30T00:00:00.000Z"
       }
     },
     {
       "9": {
-        "title": "Data Analyst, Customer Success",
-        "company": "Greystar",
-        "link": "https://www.linkedin.com/jobs/view/data-analyst-customer-success-at-greystar-4160487113?position=9&pageNum=0&refId=Jz5jteTQuhzMcnQGioMADQ%3D%3D&trackingId=4Pg2X%2FrWa7hhzf33xjMWpA%3D%3D",
-        "date": "2025-04-29T00:00:00.000Z"
+        "title": "Data Analyst (Healthcare Required) - CA ONLY - REMOTE",
+        "company": {
+          "companyName": "Jobs via Lensa",
+          "companyLink": "https://www.linkedin.com/company/lensa?trk=public_jobs_jserp-result_job-search-card-subtitle"
+        },
+        "link": "https://www.linkedin.com/jobs/view/data-analyst-healthcare-required-ca-only-remote-at-jobs-via-lensa-4218039870?position=9&pageNum=0&refId=BdnLT8ctOLxhMVav5GgD6A%3D%3D&trackingId=VpdXda1JNYFyminvqtU9aQ%3D%3D",
+        "date": "2025-04-30T00:00:00.000Z"
       }
     },
     {
       "10": {
-        "title": "Oncology Data Analytics Analyst (SQL & Python) - Spain Remote",
-        "company": "Jobs via Lensa",
-        "link": "https://www.linkedin.com/jobs/view/oncology-data-analytics-analyst-sql-python-spain-remote-at-jobs-via-lensa-4217814207?position=10&pageNum=0&refId=Jz5jteTQuhzMcnQGioMADQ%3D%3D&trackingId=m463Rrxp7xQhwlM93zQnlg%3D%3D",
+        "title": "Remote Jr Business Intelligence Analyst",
+        "company": {
+          "companyName": "TieTalent",
+          "companyLink": "https://ch.linkedin.com/company/tietalent?trk=public_jobs_jserp-result_job-search-card-subtitle"
+        },
+        "link": "https://www.linkedin.com/jobs/view/remote-jr-business-intelligence-analyst-at-tietalent-4219379737?position=10&pageNum=0&refId=BdnLT8ctOLxhMVav5GgD6A%3D%3D&trackingId=novZr%2BRXGtUdCBlLzSR7Rg%3D%3D",
         "date": "2025-04-29T00:00:00.000Z"
       }
     },
     {
       "11": {
-        "title": "Data Analyst",
-        "company": "Trevonix Tech",
-        "link": "https://www.linkedin.com/jobs/view/data-analyst-at-trevonix-tech-4216887751?position=11&pageNum=0&refId=Jz5jteTQuhzMcnQGioMADQ%3D%3D&trackingId=kQBoUgoqhyVmGViAOWUsbA%3D%3D",
+        "title": "Data/Reporting Analyst",
+        "company": {
+          "companyName": "HealthStream",
+          "companyLink": "https://www.linkedin.com/company/healthstream?trk=public_jobs_jserp-result_job-search-card-subtitle"
+        },
+        "link": "https://www.linkedin.com/jobs/view/data-reporting-analyst-at-healthstream-4219178761?position=11&pageNum=0&refId=BdnLT8ctOLxhMVav5GgD6A%3D%3D&trackingId=8oGdJcfhKVTWSJx5dbYzVA%3D%3D",
         "date": "2025-04-29T00:00:00.000Z"
       }
     },
     {
       "12": {
-        "title": "RCM Data Analyst",
-        "company": "Netsmart",
-        "link": "https://www.linkedin.com/jobs/view/rcm-data-analyst-at-netsmart-4216842513?position=12&pageNum=0&refId=Jz5jteTQuhzMcnQGioMADQ%3D%3D&trackingId=J2aKdFH%2FNyIOfB9fELexGQ%3D%3D",
-        "date": "2025-04-29T00:00:00.000Z"
+        "title": "Business Intelligence Analyst",
+        "company": {
+          "companyName": "TFS",
+          "companyLink": "https://www.linkedin.com/company/total-fleet-solutions?trk=public_jobs_jserp-result_job-search-card-subtitle"
+        },
+        "link": "https://www.linkedin.com/jobs/view/business-intelligence-analyst-at-tfs-4218027318?position=12&pageNum=0&refId=BdnLT8ctOLxhMVav5GgD6A%3D%3D&trackingId=aU84aCLz11hio6B2beSN6Q%3D%3D",
+        "date": "2025-04-30T00:00:00.000Z"
       }
     },
     {
       "13": {
-        "title": "Data/Reporting Analyst",
-        "company": "HealthStream",
-        "link": "https://www.linkedin.com/jobs/view/data-reporting-analyst-at-healthstream-4219178761?position=13&pageNum=0&refId=Jz5jteTQuhzMcnQGioMADQ%3D%3D&trackingId=2VPXiPsPY70XpGvGeqiIxw%3D%3D",
+        "title": "Insights Associate",
+        "company": {
+          "companyName": "YipitData",
+          "companyLink": "https://www.linkedin.com/company/yipitllc?trk=public_jobs_jserp-result_job-search-card-subtitle"
+        },
+        "link": "https://www.linkedin.com/jobs/view/insights-associate-at-yipitdata-4219340484?position=13&pageNum=0&refId=BdnLT8ctOLxhMVav5GgD6A%3D%3D&trackingId=X8PpeyTCzGi1E%2FkQsoP2ng%3D%3D",
         "date": "2025-04-29T00:00:00.000Z"
       }
     },
     {
       "14": {
-        "title": "TIME Analyst I",
-        "company": "Tempus AI",
-        "link": "https://www.linkedin.com/jobs/view/time-analyst-i-at-tempus-ai-4219062509?position=14&pageNum=0&refId=Jz5jteTQuhzMcnQGioMADQ%3D%3D&trackingId=eoZXFRlttbR%2B%2BDQ9ISyAkg%3D%3D",
-        "date": "2025-04-28T00:00:00.000Z"
+        "title": "Data Analyst - Stratospheric Operations",
+        "company": {
+          "companyName": "Near Space Labs",
+          "companyLink": "https://www.linkedin.com/company/near-space?trk=public_jobs_jserp-result_job-search-card-subtitle"
+        },
+        "link": "https://www.linkedin.com/jobs/view/data-analyst-stratospheric-operations-at-near-space-labs-4219337444?position=14&pageNum=0&refId=BdnLT8ctOLxhMVav5GgD6A%3D%3D&trackingId=khrr1UY6j5pKrZL4%2BUmucQ%3D%3D",
+        "date": "2025-04-29T00:00:00.000Z"
       }
     },
     {
       "15": {
-        "title": "Linguistics Data Analyst - Remote - US",
-        "company": "Lightcast",
-        "link": "https://www.linkedin.com/jobs/view/linguistics-data-analyst-remote-us-at-lightcast-4217591721?position=15&pageNum=0&refId=Jz5jteTQuhzMcnQGioMADQ%3D%3D&trackingId=zqQHVzxSjooAtryK6IsPhQ%3D%3D",
+        "title": "Data Engineer",
+        "company": {
+          "companyName": "ROR",
+          "companyLink": "https://www.linkedin.com/company/rorpartners?trk=public_jobs_jserp-result_job-search-card-subtitle"
+        },
+        "link": "https://www.linkedin.com/jobs/view/data-engineer-at-ror-4217399400?position=15&pageNum=0&refId=BdnLT8ctOLxhMVav5GgD6A%3D%3D&trackingId=xrrES9JPBKTX2QSVLAd8sA%3D%3D",
         "date": "2025-04-29T00:00:00.000Z"
       }
     },
     {
       "16": {
-        "title": "Data Science & Analytics Internships – Academic Year 2025-2026",
-        "company": "NBCUniversal",
-        "link": "https://www.linkedin.com/jobs/view/data-science-analytics-internships-%E2%80%93-academic-year-2025-2026-at-nbcuniversal-4217060897?position=16&pageNum=0&refId=Jz5jteTQuhzMcnQGioMADQ%3D%3D&trackingId=8yzI3lSBvdCmWOMdw1w%2Bsg%3D%3D",
-        "date": "2025-04-28T00:00:00.000Z"
+        "title": "Client Solutions Specialist",
+        "company": {
+          "companyName": "Acosta",
+          "companyLink": "https://www.linkedin.com/company/acosta?trk=public_jobs_jserp-result_job-search-card-subtitle"
+        },
+        "link": "https://www.linkedin.com/jobs/view/client-solutions-specialist-at-acosta-4196467816?position=16&pageNum=0&refId=BdnLT8ctOLxhMVav5GgD6A%3D%3D&trackingId=FgvConyb6lNw2Vyof4DvEg%3D%3D",
+        "date": "2025-04-29T00:00:00.000Z"
       }
     },
     {
       "17": {
-        "title": "Business Intelligence Intern (Remote in California)",
-        "company": "Rocket Lawyer",
-        "link": "https://www.linkedin.com/jobs/view/business-intelligence-intern-remote-in-california-at-rocket-lawyer-4203759258?position=17&pageNum=0&refId=Jz5jteTQuhzMcnQGioMADQ%3D%3D&trackingId=0Plgew6zUT%2FFccvQf9kKGQ%3D%3D",
+        "title": "Ground Truth Analyst Intern",
+        "company": {
+          "companyName": "Pronghorn",
+          "companyLink": "https://www.linkedin.com/company/pronghorn-co?trk=public_jobs_jserp-result_job-search-card-subtitle"
+        },
+        "link": "https://www.linkedin.com/jobs/view/ground-truth-analyst-intern-at-pronghorn-4217729464?position=17&pageNum=0&refId=BdnLT8ctOLxhMVav5GgD6A%3D%3D&trackingId=tnJbI6X3l8xFZ3l86F8MGg%3D%3D",
         "date": "2025-04-29T00:00:00.000Z"
       }
     },
     {
       "18": {
-        "title": "Business Intelligence Intern (Remote in Utah)",
-        "company": "Rocket Lawyer",
-        "link": "https://www.linkedin.com/jobs/view/business-intelligence-intern-remote-in-utah-at-rocket-lawyer-4203760083?position=18&pageNum=0&refId=Jz5jteTQuhzMcnQGioMADQ%3D%3D&trackingId=dWcxvfK9jABHqqe8ZmCmdQ%3D%3D",
-        "date": "2025-04-29T00:00:00.000Z"
+        "title": "Associate Data Analyst (Remote in Puerto Rico) - San Juan, PR",
+        "company": {
+          "companyName": "Jobs via Lensa",
+          "companyLink": "https://www.linkedin.com/company/lensa?trk=public_jobs_jserp-result_job-search-card-subtitle"
+        },
+        "link": "https://www.linkedin.com/jobs/view/associate-data-analyst-remote-in-puerto-rico-san-juan-pr-at-jobs-via-lensa-4218039715?position=18&pageNum=0&refId=BdnLT8ctOLxhMVav5GgD6A%3D%3D&trackingId=syJzSRoYBlFd%2FA69q6az6g%3D%3D",
+        "date": "2025-04-30T00:00:00.000Z"
       }
     },
     {
       "19": {
-        "title": "Business Intelligence Intern (Remote in Arizona)",
-        "company": "Rocket Lawyer",
-        "link": "https://www.linkedin.com/jobs/view/business-intelligence-intern-remote-in-arizona-at-rocket-lawyer-4203760082?position=19&pageNum=0&refId=Jz5jteTQuhzMcnQGioMADQ%3D%3D&trackingId=ww0l3ET92Tgit%2BXge9OBVQ%3D%3D",
-        "date": "2025-04-29T00:00:00.000Z"
+        "title": "APL Analyst Intern",
+        "company": {
+          "companyName": "Pronghorn",
+          "companyLink": "https://www.linkedin.com/company/pronghorn-co?trk=public_jobs_jserp-result_job-search-card-subtitle"
+        },
+        "link": "https://www.linkedin.com/jobs/view/apl-analyst-intern-at-pronghorn-4218081588?position=19&pageNum=0&refId=BdnLT8ctOLxhMVav5GgD6A%3D%3D&trackingId=lXJaxNSQQ%2BAJ%2FIXDkqlTag%3D%3D",
+        "date": "2025-04-30T00:00:00.000Z"
       }
     },
     {
       "20": {
-        "title": "Business Intelligence Intern (Remote in North Carolina)",
-        "company": "Rocket Lawyer",
-        "link": "https://www.linkedin.com/jobs/view/business-intelligence-intern-remote-in-north-carolina-at-rocket-lawyer-4203758340?position=20&pageNum=0&refId=Jz5jteTQuhzMcnQGioMADQ%3D%3D&trackingId=QEhavj6HinqCkuZp%2BxQjbA%3D%3D",
-        "date": "2025-04-29T00:00:00.000Z"
+        "title": "GIS Analyst - Remote",
+        "company": {
+          "companyName": "Jobs via Lensa",
+          "companyLink": "https://www.linkedin.com/company/lensa?trk=public_jobs_jserp-result_job-search-card-subtitle"
+        },
+        "link": "https://www.linkedin.com/jobs/view/gis-analyst-remote-at-jobs-via-lensa-4218039837?position=20&pageNum=0&refId=BdnLT8ctOLxhMVav5GgD6A%3D%3D&trackingId=S%2BQQi08bjUJ%2F72SEOvE%2FyQ%3D%3D",
+        "date": "2025-04-30T00:00:00.000Z"
       }
     },
     {
       "21": {
         "title": "Data Engineer",
-        "company": "ROR",
-        "link": "https://www.linkedin.com/jobs/view/data-engineer-at-ror-4217399400?position=21&pageNum=0&refId=Jz5jteTQuhzMcnQGioMADQ%3D%3D&trackingId=DwGhbUACl8vy%2BeHreY%2B%2BTA%3D%3D",
+        "company": {
+          "companyName": "Scholastic",
+          "companyLink": "https://www.linkedin.com/company/scholastic?trk=public_jobs_jserp-result_job-search-card-subtitle"
+        },
+        "link": "https://www.linkedin.com/jobs/view/data-engineer-at-scholastic-4219346956?position=21&pageNum=0&refId=BdnLT8ctOLxhMVav5GgD6A%3D%3D&trackingId=uZxnz9Y%2FqiaFnzwQhFjpNg%3D%3D",
         "date": "2025-04-29T00:00:00.000Z"
       }
     },
     {
       "22": {
-        "title": "REMOTE Quantitative Analyst",
-        "company": "Jobs via Lensa",
-        "link": "https://www.linkedin.com/jobs/view/remote-quantitative-analyst-at-jobs-via-lensa-4217818077?position=22&pageNum=0&refId=Jz5jteTQuhzMcnQGioMADQ%3D%3D&trackingId=B3xn7t2cct5IltG5WGjz1w%3D%3D",
+        "title": "Data Engineer Co-Op",
+        "company": {
+          "companyName": "Verana Health",
+          "companyLink": "https://www.linkedin.com/company/verana-health?trk=public_jobs_jserp-result_job-search-card-subtitle"
+        },
+        "link": "https://www.linkedin.com/jobs/view/data-engineer-co-op-at-verana-health-4218222033?position=22&pageNum=0&refId=BdnLT8ctOLxhMVav5GgD6A%3D%3D&trackingId=m2%2FIMhQ0y%2Bhea5KGQ%2BCHjA%3D%3D",
         "date": "2025-04-29T00:00:00.000Z"
       }
     },
     {
       "23": {
-        "title": "Associate Data Analyst (Remote in Puerto Rico) - San Juan, PR",
-        "company": "Jobs via Lensa",
-        "link": "https://www.linkedin.com/jobs/view/associate-data-analyst-remote-in-puerto-rico-san-juan-pr-at-jobs-via-lensa-4217810520?position=23&pageNum=0&refId=Jz5jteTQuhzMcnQGioMADQ%3D%3D&trackingId=Z8%2FgqEa6MIaRMoPnZxview%3D%3D",
-        "date": "2025-04-29T00:00:00.000Z"
+        "title": "Business Systems Analyst I - HR Technology",
+        "company": {
+          "companyName": "Cincinnati Children's",
+          "companyLink": "https://www.linkedin.com/company/cincinnatichildrens?trk=public_jobs_jserp-result_job-search-card-subtitle"
+        },
+        "link": "https://www.linkedin.com/jobs/view/business-systems-analyst-i-hr-technology-at-cincinnati-children-s-4219406992?position=23&pageNum=0&refId=BdnLT8ctOLxhMVav5GgD6A%3D%3D&trackingId=RUXmAAMJYqoJQsAWJ8iJWQ%3D%3D",
+        "date": "2025-04-30T00:00:00.000Z"
       }
     },
     {
       "24": {
-        "title": "Business Intelligence Intern (Remote in Colorado)",
-        "company": "Rocket Lawyer",
-        "link": "https://www.linkedin.com/jobs/view/business-intelligence-intern-remote-in-colorado-at-rocket-lawyer-4203755689?position=24&pageNum=0&refId=Jz5jteTQuhzMcnQGioMADQ%3D%3D&trackingId=d%2F4xLlAfV7q9HYh81lSWcQ%3D%3D",
-        "date": "2025-04-29T00:00:00.000Z"
+        "title": "Remote Engineer, Data, I",
+        "company": {
+          "companyName": "Jobs via Lensa",
+          "companyLink": "https://www.linkedin.com/company/lensa?trk=public_jobs_jserp-result_job-search-card-subtitle"
+        },
+        "link": "https://www.linkedin.com/jobs/view/remote-engineer-data-i-at-jobs-via-lensa-4218041550?position=24&pageNum=0&refId=BdnLT8ctOLxhMVav5GgD6A%3D%3D&trackingId=La1hXuLb7j3%2BsXewTdthyQ%3D%3D",
+        "date": "2025-04-30T00:00:00.000Z"
       }
     },
     {
       "25": {
-        "title": "Data and Analytics Consultant",
-        "company": "CVS Health",
-        "link": "https://www.linkedin.com/jobs/view/data-and-analytics-consultant-at-cvs-health-4217136979?position=25&pageNum=0&refId=Jz5jteTQuhzMcnQGioMADQ%3D%3D&trackingId=tdV8gpSDeuEZGLfIpi6yRg%3D%3D",
+        "title": "Internship, Web Analyst",
+        "company": {
+          "companyName": "Aledade, Inc.",
+          "companyLink": "https://www.linkedin.com/company/aledade?trk=public_jobs_jserp-result_job-search-card-subtitle"
+        },
+        "link": "https://www.linkedin.com/jobs/view/internship-web-analyst-at-aledade-inc-4219389571?position=25&pageNum=0&refId=BdnLT8ctOLxhMVav5GgD6A%3D%3D&trackingId=8yScyaXeTEqP59NWjsKV6g%3D%3D",
         "date": "2025-04-29T00:00:00.000Z"
       }
     },
     {
       "26": {
-        "title": "Data Visualization Designer / Presentation Designer",
-        "company": "Planet Interactive",
-        "link": "https://www.linkedin.com/jobs/view/data-visualization-designer-presentation-designer-at-planet-interactive-4219035697?position=26&pageNum=0&refId=Jz5jteTQuhzMcnQGioMADQ%3D%3D&trackingId=CcqdEbJLlxV28YX5Ya%2FBag%3D%3D",
-        "date": "2025-04-28T00:00:00.000Z"
+        "title": "Provider Data Reporting Intern",
+        "company": {
+          "companyName": "BlueCross BlueShield of Tennessee",
+          "companyLink": "https://www.linkedin.com/company/bcbst?trk=public_jobs_jserp-result_job-search-card-subtitle"
+        },
+        "link": "https://www.linkedin.com/jobs/view/provider-data-reporting-intern-at-bluecross-blueshield-of-tennessee-4219326789?position=26&pageNum=0&refId=BdnLT8ctOLxhMVav5GgD6A%3D%3D&trackingId=BYBBZ4Nt1HWSJPqIpZScsQ%3D%3D",
+        "date": "2025-04-29T00:00:00.000Z"
       }
     },
     {
       "27": {
-        "title": "Marketing Data Science Analyst",
-        "company": "Grand Canyon Education, Inc.",
-        "link": "https://www.linkedin.com/jobs/view/marketing-data-science-analyst-at-grand-canyon-education-inc-4217064314?position=27&pageNum=0&refId=Jz5jteTQuhzMcnQGioMADQ%3D%3D&trackingId=Zb2VKbhBeOiuYDuy733VqA%3D%3D",
-        "date": "2025-04-28T00:00:00.000Z"
+        "title": "Remote Engineer, Data, I",
+        "company": {
+          "companyName": "Jobs via Lensa",
+          "companyLink": "https://www.linkedin.com/company/lensa?trk=public_jobs_jserp-result_job-search-card-subtitle"
+        },
+        "link": "https://www.linkedin.com/jobs/view/remote-engineer-data-i-at-jobs-via-lensa-4218044217?position=27&pageNum=0&refId=BdnLT8ctOLxhMVav5GgD6A%3D%3D&trackingId=8%2F%2FXt%2FyMatWQTG5h5ognIg%3D%3D",
+        "date": "2025-04-30T00:00:00.000Z"
       }
     },
     {
       "28": {
         "title": "Remote Engineer, Data, I",
-        "company": "Jobs via Lensa",
-        "link": "https://www.linkedin.com/jobs/view/remote-engineer-data-i-at-jobs-via-lensa-4217810500?position=28&pageNum=0&refId=Jz5jteTQuhzMcnQGioMADQ%3D%3D&trackingId=CtMmUshQXwqgg3XJzCotqw%3D%3D",
-        "date": "2025-04-29T00:00:00.000Z"
+        "company": {
+          "companyName": "Jobs via Lensa",
+          "companyLink": "https://www.linkedin.com/company/lensa?trk=public_jobs_jserp-result_job-search-card-subtitle"
+        },
+        "link": "https://www.linkedin.com/jobs/view/remote-engineer-data-i-at-jobs-via-lensa-4218041642?position=28&pageNum=0&refId=BdnLT8ctOLxhMVav5GgD6A%3D%3D&trackingId=HQX1jR3AWMWCHEAJSuxE%2Fw%3D%3D",
+        "date": "2025-04-30T00:00:00.000Z"
       }
     },
     {
       "29": {
-        "title": "Booking Analyst",
-        "company": "Business People Operations Associate",
-        "link": "https://www.linkedin.com/jobs/view/booking-analyst-at-business-people-operations-associate-4217861097?position=29&pageNum=0&refId=Jz5jteTQuhzMcnQGioMADQ%3D%3D&trackingId=A9sPOWVROlMnVhmA0yFD1g%3D%3D",
-        "date": "2025-04-29T00:00:00.000Z"
+        "title": "Remote Engineer, Data, I",
+        "company": {
+          "companyName": "Jobs via Lensa",
+          "companyLink": "https://www.linkedin.com/company/lensa?trk=public_jobs_jserp-result_job-search-card-subtitle"
+        },
+        "link": "https://www.linkedin.com/jobs/view/remote-engineer-data-i-at-jobs-via-lensa-4218045197?position=29&pageNum=0&refId=BdnLT8ctOLxhMVav5GgD6A%3D%3D&trackingId=lxkYO5ffuHn5e0UlATYLZw%3D%3D",
+        "date": "2025-04-30T00:00:00.000Z"
       }
     },
     {
       "30": {
-        "title": "Order Data Integrity Analyst (Contractor)",
-        "company": "Amplify",
-        "link": "https://www.linkedin.com/jobs/view/order-data-integrity-analyst-contractor-at-amplify-4216458789?position=30&pageNum=0&refId=Jz5jteTQuhzMcnQGioMADQ%3D%3D&trackingId=zyPIM4BZTb1YAAZUzW1QcQ%3D%3D",
-        "date": "2025-04-28T00:00:00.000Z"
+        "title": "Remote Engineer, Data, I",
+        "company": {
+          "companyName": "Jobs via Lensa",
+          "companyLink": "https://www.linkedin.com/company/lensa?trk=public_jobs_jserp-result_job-search-card-subtitle"
+        },
+        "link": "https://www.linkedin.com/jobs/view/remote-engineer-data-i-at-jobs-via-lensa-4218043260?position=30&pageNum=0&refId=BdnLT8ctOLxhMVav5GgD6A%3D%3D&trackingId=4zOJadA%2BmqZzN%2BjDz8X56g%3D%3D",
+        "date": "2025-04-30T00:00:00.000Z"
       }
     },
     {
       "31": {
         "title": "Remote Engineer, Data, I",
-        "company": "Jobs via Lensa",
-        "link": "https://www.linkedin.com/jobs/view/remote-engineer-data-i-at-jobs-via-lensa-4217811503?position=31&pageNum=0&refId=Jz5jteTQuhzMcnQGioMADQ%3D%3D&trackingId=M3V%2BC1JuOEAP%2BUHwTmbi6A%3D%3D",
-        "date": "2025-04-29T00:00:00.000Z"
+        "company": {
+          "companyName": "Jobs via Lensa",
+          "companyLink": "https://www.linkedin.com/company/lensa?trk=public_jobs_jserp-result_job-search-card-subtitle"
+        },
+        "link": "https://www.linkedin.com/jobs/view/remote-engineer-data-i-at-jobs-via-lensa-4218038838?position=31&pageNum=0&refId=BdnLT8ctOLxhMVav5GgD6A%3D%3D&trackingId=67xcnmIxmcsJ64C275Nj5Q%3D%3D",
+        "date": "2025-04-30T00:00:00.000Z"
       }
     },
     {
       "32": {
-        "title": "Statistical Data Analyst II (Remote) - Infectious Diseases",
-        "company": "Washington University in St. Louis",
-        "link": "https://www.linkedin.com/jobs/view/statistical-data-analyst-ii-remote-infectious-diseases-at-washington-university-in-st-louis-4216814998?position=32&pageNum=0&refId=Jz5jteTQuhzMcnQGioMADQ%3D%3D&trackingId=pQdAI5A2MAlPZXuDBzSmBg%3D%3D",
-        "date": "2025-04-29T00:00:00.000Z"
+        "title": "Remote Engineer, Data, I",
+        "company": {
+          "companyName": "Jobs via Lensa",
+          "companyLink": "https://www.linkedin.com/company/lensa?trk=public_jobs_jserp-result_job-search-card-subtitle"
+        },
+        "link": "https://www.linkedin.com/jobs/view/remote-engineer-data-i-at-jobs-via-lensa-4218045201?position=32&pageNum=0&refId=BdnLT8ctOLxhMVav5GgD6A%3D%3D&trackingId=9ZdKUkl0sGHGgWHM3WGvaw%3D%3D",
+        "date": "2025-04-30T00:00:00.000Z"
       }
     },
     {
       "33": {
-        "title": "Jr. Data Engineer",
-        "company": "Diversified Systems.com",
-        "link": "https://www.linkedin.com/jobs/view/jr-data-engineer-at-diversified-systems-com-4217700010?position=33&pageNum=0&refId=Jz5jteTQuhzMcnQGioMADQ%3D%3D&trackingId=pFGU3%2BAkXxb%2FtnOm%2BLKD3g%3D%3D",
-        "date": "2025-04-29T00:00:00.000Z"
+        "title": "SafeMeasures Support Analyst",
+        "company": {
+          "companyName": "Evident Change",
+          "companyLink": "https://www.linkedin.com/company/evidentchange?trk=public_jobs_jserp-result_job-search-card-subtitle"
+        },
+        "link": "https://www.linkedin.com/jobs/view/safemeasures-support-analyst-at-evident-change-4219400285?position=33&pageNum=0&refId=BdnLT8ctOLxhMVav5GgD6A%3D%3D&trackingId=wlfnYyuZaCVnvX9SxzjR5Q%3D%3D",
+        "date": "2025-04-30T00:00:00.000Z"
       }
     },
     {
       "34": {
-        "title": "Remote Engineer, Data, I",
-        "company": "Jobs via Lensa",
-        "link": "https://www.linkedin.com/jobs/view/remote-engineer-data-i-at-jobs-via-lensa-4217814345?position=34&pageNum=0&refId=Jz5jteTQuhzMcnQGioMADQ%3D%3D&trackingId=IrKVgR3Zr1X2NOIrGeZwkw%3D%3D",
-        "date": "2025-04-29T00:00:00.000Z"
+        "title": "Data Science Intern",
+        "company": {
+          "companyName": "The Crypto Recruiters",
+          "companyLink": "https://www.linkedin.com/company/crypto-recruiters?trk=public_jobs_jserp-result_job-search-card-subtitle"
+        },
+        "link": "https://www.linkedin.com/jobs/view/data-science-intern-at-the-crypto-recruiters-4219834188?position=34&pageNum=0&refId=BdnLT8ctOLxhMVav5GgD6A%3D%3D&trackingId=5H1EjDstSlTnFXPIb2tasQ%3D%3D",
+        "date": "2025-04-30T00:00:00.000Z"
       }
     },
     {
       "35": {
         "title": "Remote Engineer, Data, I",
-        "company": "Jobs via Lensa",
-        "link": "https://www.linkedin.com/jobs/view/remote-engineer-data-i-at-jobs-via-lensa-4217812422?position=35&pageNum=0&refId=Jz5jteTQuhzMcnQGioMADQ%3D%3D&trackingId=cCKq4y156L8uWZmeaWip7g%3D%3D",
-        "date": "2025-04-29T00:00:00.000Z"
+        "company": {
+          "companyName": "Jobs via Lensa",
+          "companyLink": "https://www.linkedin.com/company/lensa?trk=public_jobs_jserp-result_job-search-card-subtitle"
+        },
+        "link": "https://www.linkedin.com/jobs/view/remote-engineer-data-i-at-jobs-via-lensa-4218038942?position=35&pageNum=0&refId=BdnLT8ctOLxhMVav5GgD6A%3D%3D&trackingId=EmVXyZYz0lK3CIGc4gqrfg%3D%3D",
+        "date": "2025-04-30T00:00:00.000Z"
       }
     },
     {
       "36": {
         "title": "Remote Engineer, Data, I",
-        "company": "Jobs via Lensa",
-        "link": "https://www.linkedin.com/jobs/view/remote-engineer-data-i-at-jobs-via-lensa-4217817191?position=36&pageNum=0&refId=Jz5jteTQuhzMcnQGioMADQ%3D%3D&trackingId=T3%2BjLHxc1agk4%2Bc%2BdK9IVg%3D%3D",
-        "date": "2025-04-29T00:00:00.000Z"
+        "company": {
+          "companyName": "Jobs via Lensa",
+          "companyLink": "https://www.linkedin.com/company/lensa?trk=public_jobs_jserp-result_job-search-card-subtitle"
+        },
+        "link": "https://www.linkedin.com/jobs/view/remote-engineer-data-i-at-jobs-via-lensa-4218042448?position=36&pageNum=0&refId=BdnLT8ctOLxhMVav5GgD6A%3D%3D&trackingId=kLWzn7DpWvrnlZ9PGHtqPw%3D%3D",
+        "date": "2025-04-30T00:00:00.000Z"
       }
     },
     {
       "37": {
         "title": "Remote Engineer, Data, I",
-        "company": "Jobs via Lensa",
-        "link": "https://www.linkedin.com/jobs/view/remote-engineer-data-i-at-jobs-via-lensa-4217814339?position=37&pageNum=0&refId=Jz5jteTQuhzMcnQGioMADQ%3D%3D&trackingId=U1TKorIipB%2Bg4cl8UCXEKQ%3D%3D",
-        "date": "2025-04-29T00:00:00.000Z"
+        "company": {
+          "companyName": "Jobs via Lensa",
+          "companyLink": "https://www.linkedin.com/company/lensa?trk=public_jobs_jserp-result_job-search-card-subtitle"
+        },
+        "link": "https://www.linkedin.com/jobs/view/remote-engineer-data-i-at-jobs-via-lensa-4218044264?position=37&pageNum=0&refId=BdnLT8ctOLxhMVav5GgD6A%3D%3D&trackingId=XyuddZ6y3KZ6eV6bh951bQ%3D%3D",
+        "date": "2025-04-30T00:00:00.000Z"
       }
     },
     {
       "38": {
         "title": "Remote Engineer, Data, I",
-        "company": "Jobs via Lensa",
-        "link": "https://www.linkedin.com/jobs/view/remote-engineer-data-i-at-jobs-via-lensa-4217810474?position=38&pageNum=0&refId=Jz5jteTQuhzMcnQGioMADQ%3D%3D&trackingId=NPhm0BZoWCgnDBJLgmB7og%3D%3D",
-        "date": "2025-04-29T00:00:00.000Z"
+        "company": {
+          "companyName": "Jobs via Lensa",
+          "companyLink": "https://www.linkedin.com/company/lensa?trk=public_jobs_jserp-result_job-search-card-subtitle"
+        },
+        "link": "https://www.linkedin.com/jobs/view/remote-engineer-data-i-at-jobs-via-lensa-4218041653?position=38&pageNum=0&refId=BdnLT8ctOLxhMVav5GgD6A%3D%3D&trackingId=t6nxVlc7ItocGLQWFkLGmQ%3D%3D",
+        "date": "2025-04-30T00:00:00.000Z"
       }
     },
     {
       "39": {
-        "title": "Business Systems Analyst / Remote",
-        "company": "Jobs via Lensa",
-        "link": "https://www.linkedin.com/jobs/view/business-systems-analyst-remote-at-jobs-via-lensa-4217818040?position=39&pageNum=0&refId=Jz5jteTQuhzMcnQGioMADQ%3D%3D&trackingId=8ab8%2B1jVpwvZcVbKfB0R7A%3D%3D",
-        "date": "2025-04-29T00:00:00.000Z"
+        "title": "Remote Engineer, Data, I",
+        "company": {
+          "companyName": "Jobs via Lensa",
+          "companyLink": "https://www.linkedin.com/company/lensa?trk=public_jobs_jserp-result_job-search-card-subtitle"
+        },
+        "link": "https://www.linkedin.com/jobs/view/remote-engineer-data-i-at-jobs-via-lensa-4218038967?position=39&pageNum=0&refId=BdnLT8ctOLxhMVav5GgD6A%3D%3D&trackingId=%2FMHaotPwj7f5spXwqk5sIw%3D%3D",
+        "date": "2025-04-30T00:00:00.000Z"
       }
     },
     {
       "40": {
-        "title": "CORP - Data Scientist",
-        "company": "Mitchell Martin Inc.",
-        "link": "https://www.linkedin.com/jobs/view/corp-data-scientist-at-mitchell-martin-inc-4210723368?position=40&pageNum=0&refId=Jz5jteTQuhzMcnQGioMADQ%3D%3D&trackingId=sjJfy05E4C%2BbWXReeRE17w%3D%3D",
-        "date": "2025-04-29T00:00:00.000Z"
+        "title": "Remote Engineer, Data, I",
+        "company": {
+          "companyName": "Jobs via Lensa",
+          "companyLink": "https://www.linkedin.com/company/lensa?trk=public_jobs_jserp-result_job-search-card-subtitle"
+        },
+        "link": "https://www.linkedin.com/jobs/view/remote-engineer-data-i-at-jobs-via-lensa-4218039860?position=40&pageNum=0&refId=BdnLT8ctOLxhMVav5GgD6A%3D%3D&trackingId=HmbaQlADFH%2FRqZcUgVvenA%3D%3D",
+        "date": "2025-04-30T00:00:00.000Z"
       }
     },
     {
       "41": {
-        "title": "Data Engineer",
-        "company": "Scamnetic",
-        "link": "https://www.linkedin.com/jobs/view/data-engineer-at-scamnetic-4219120160?position=41&pageNum=0&refId=Jz5jteTQuhzMcnQGioMADQ%3D%3D&trackingId=aIez2U1jqUhPqU6Z8%2F67xA%3D%3D",
-        "date": "2025-04-29T00:00:00.000Z"
+        "title": "Remote Engineer, Data, I",
+        "company": {
+          "companyName": "Jobs via Lensa",
+          "companyLink": "https://www.linkedin.com/company/lensa?trk=public_jobs_jserp-result_job-search-card-subtitle"
+        },
+        "link": "https://www.linkedin.com/jobs/view/remote-engineer-data-i-at-jobs-via-lensa-4218039851?position=41&pageNum=0&refId=BdnLT8ctOLxhMVav5GgD6A%3D%3D&trackingId=jt8Iii8%2FxChpvvLvQ5NgHQ%3D%3D",
+        "date": "2025-04-30T00:00:00.000Z"
       }
     },
     {
       "42": {
-        "title": "Remote Engineer, Data, I",
-        "company": "Jobs via Lensa",
-        "link": "https://www.linkedin.com/jobs/view/remote-engineer-data-i-at-jobs-via-lensa-4217814342?position=42&pageNum=0&refId=Jz5jteTQuhzMcnQGioMADQ%3D%3D&trackingId=zBKFaRqj8Saj7HIiis6udw%3D%3D",
-        "date": "2025-04-29T00:00:00.000Z"
+        "title": "Graduate Data Science Engineer",
+        "company": {
+          "companyName": [],
+          "companyLink": ""
+        },
+        "link": "https://www.linkedin.com/jobs/view/graduate-data-science-engineer-4219401436?position=42&pageNum=0&refId=BdnLT8ctOLxhMVav5GgD6A%3D%3D&trackingId=AJ0RJYffUGHaEUFFRt7BVw%3D%3D&trk=public_jobs_jserp-result_search-card",
+        "date": "2025-04-30T00:00:00.000Z"
       }
     },
     {
       "43": {
-        "title": "Remote Engineer, Data, I",
-        "company": "Jobs via Lensa",
-        "link": "https://www.linkedin.com/jobs/view/remote-engineer-data-i-at-jobs-via-lensa-4217811558?position=43&pageNum=0&refId=Jz5jteTQuhzMcnQGioMADQ%3D%3D&trackingId=KHrcYsc%2F86Ox7rWIFyBcNQ%3D%3D",
-        "date": "2025-04-29T00:00:00.000Z"
+        "title": "Senior Reporting Analyst",
+        "company": {
+          "companyName": "Greystar",
+          "companyLink": "https://www.linkedin.com/company/greystar?trk=public_jobs_jserp-result_job-search-card-subtitle"
+        },
+        "link": "https://www.linkedin.com/jobs/view/senior-reporting-analyst-at-greystar-4218089350?position=43&pageNum=0&refId=BdnLT8ctOLxhMVav5GgD6A%3D%3D&trackingId=CokOFDN%2BWHBx%2FuPlYHhhag%3D%3D",
+        "date": "2025-04-30T00:00:00.000Z"
       }
     },
     {
       "44": {
-        "title": "Remote Engineer, Data, I",
-        "company": "Jobs via Lensa",
-        "link": "https://www.linkedin.com/jobs/view/remote-engineer-data-i-at-jobs-via-lensa-4217810486?position=44&pageNum=0&refId=Jz5jteTQuhzMcnQGioMADQ%3D%3D&trackingId=HUIFbuptWr%2Ft7RXJfqBI3A%3D%3D",
-        "date": "2025-04-29T00:00:00.000Z"
+        "title": "Data Annotator (No Prior Experience Needed)",
+        "company": {
+          "companyName": "TransPerfect",
+          "companyLink": "https://www.linkedin.com/company/transperfect?trk=public_jobs_jserp-result_job-search-card-subtitle"
+        },
+        "link": "https://www.linkedin.com/jobs/view/data-annotator-no-prior-experience-needed-at-transperfect-4218087497?position=44&pageNum=0&refId=BdnLT8ctOLxhMVav5GgD6A%3D%3D&trackingId=P64Ek7xZert%2BN3v55YhDuA%3D%3D",
+        "date": "2025-04-30T00:00:00.000Z"
       }
     },
     {
       "45": {
-        "title": "Data Engineer",
-        "company": "dentsu",
-        "link": "https://www.linkedin.com/jobs/view/data-engineer-at-dentsu-4216802221?position=45&pageNum=0&refId=Jz5jteTQuhzMcnQGioMADQ%3D%3D&trackingId=qfrQMFdJaL3wSVOP0bBAHw%3D%3D",
-        "date": "2025-04-28T00:00:00.000Z"
+        "title": "Engineer, Big Data - Databricks/Python/SQL/Power BI - Remote",
+        "company": {
+          "companyName": "Jobs via Lensa",
+          "companyLink": "https://www.linkedin.com/company/lensa?trk=public_jobs_jserp-result_job-search-card-subtitle"
+        },
+        "link": "https://www.linkedin.com/jobs/view/engineer-big-data-databricks-python-sql-power-bi-remote-at-jobs-via-lensa-4218041693?position=45&pageNum=0&refId=BdnLT8ctOLxhMVav5GgD6A%3D%3D&trackingId=l7xsHnq2KdKcrkAQr68aFQ%3D%3D",
+        "date": "2025-04-30T00:00:00.000Z"
       }
     },
     {
       "46": {
-        "title": "Online Data Analyst",
-        "company": "TELUS Digital AI Data Solutions",
-        "link": "https://www.linkedin.com/jobs/view/online-data-analyst-at-telus-digital-ai-data-solutions-4219127584?position=46&pageNum=0&refId=Jz5jteTQuhzMcnQGioMADQ%3D%3D&trackingId=gnMB6OAu0X%2BF6%2FSq1c4Hjg%3D%3D",
-        "date": "2025-04-29T00:00:00.000Z"
+        "title": "Online Data Analyst - Work From Home",
+        "company": {
+          "companyName": "TELUS Digital AI Data Solutions",
+          "companyLink": "https://www.linkedin.com/company/telusdigitalaidatasolutions?trk=public_jobs_jserp-result_job-search-card-subtitle"
+        },
+        "link": "https://www.linkedin.com/jobs/view/online-data-analyst-work-from-home-at-telus-digital-ai-data-solutions-4219677342?position=46&pageNum=0&refId=BdnLT8ctOLxhMVav5GgD6A%3D%3D&trackingId=HUrZW4Z%2F7PyUQyXzBS0QZQ%3D%3D",
+        "date": "2025-04-30T00:00:00.000Z"
       }
     },
     {
       "47": {
-        "title": "Certinia PSA & Analytics Consultant",
-        "company": "TEKsystems",
-        "link": "https://www.linkedin.com/jobs/view/certinia-psa-analytics-consultant-at-teksystems-4219090954?position=47&pageNum=0&refId=Jz5jteTQuhzMcnQGioMADQ%3D%3D&trackingId=7T9qrHYZalrWahmMEIoQKg%3D%3D",
-        "date": "2025-04-29T00:00:00.000Z"
+        "title": "Associate Data Scientist",
+        "company": {
+          "companyName": "Dataiku",
+          "companyLink": "https://www.linkedin.com/company/dataiku?trk=public_jobs_jserp-result_job-search-card-subtitle"
+        },
+        "link": "https://www.linkedin.com/jobs/view/associate-data-scientist-at-dataiku-4218230090?position=47&pageNum=0&refId=BdnLT8ctOLxhMVav5GgD6A%3D%3D&trackingId=XJ7PH2smyLjr7HvhnCdl9A%3D%3D",
+        "date": "2025-04-30T00:00:00.000Z"
       }
     },
     {
       "48": {
-        "title": "Online Data Analyst",
-        "company": "TELUS Digital AI Data Solutions",
-        "link": "https://www.linkedin.com/jobs/view/online-data-analyst-at-telus-digital-ai-data-solutions-4219136213?position=48&pageNum=0&refId=Jz5jteTQuhzMcnQGioMADQ%3D%3D&trackingId=H7jaSaihIeq19m5JN2e2NQ%3D%3D",
-        "date": "2025-04-29T00:00:00.000Z"
+        "title": "Engineer, Big Data - Databricks/Python/SQL/Power BI - Remote",
+        "company": {
+          "companyName": "Jobs via Lensa",
+          "companyLink": "https://www.linkedin.com/company/lensa?trk=public_jobs_jserp-result_job-search-card-subtitle"
+        },
+        "link": "https://www.linkedin.com/jobs/view/engineer-big-data-databricks-python-sql-power-bi-remote-at-jobs-via-lensa-4218040783?position=48&pageNum=0&refId=BdnLT8ctOLxhMVav5GgD6A%3D%3D&trackingId=5sKQvvieRvyXDDV20eCteg%3D%3D",
+        "date": "2025-04-30T00:00:00.000Z"
       }
     },
     {
       "49": {
-        "title": "Online Data Analyst",
-        "company": "TELUS Digital AI Data Solutions",
-        "link": "https://www.linkedin.com/jobs/view/online-data-analyst-at-telus-digital-ai-data-solutions-4219129405?position=49&pageNum=0&refId=Jz5jteTQuhzMcnQGioMADQ%3D%3D&trackingId=92YFT2JeNssPv1YsAwPRSQ%3D%3D",
+        "title": "Data/ Business Analyst",
+        "company": {
+          "companyName": "Jobs via Dice",
+          "companyLink": "https://www.linkedin.com/company/jobs-via-dice?trk=public_jobs_jserp-result_job-search-card-subtitle"
+        },
+        "link": "https://www.linkedin.com/jobs/view/data-business-analyst-at-jobs-via-dice-4217393981?position=49&pageNum=0&refId=BdnLT8ctOLxhMVav5GgD6A%3D%3D&trackingId=6pMSEIwiWZgaA0i3F4dpZw%3D%3D",
         "date": "2025-04-29T00:00:00.000Z"
       }
     },
     {
       "50": {
-        "title": "Data Engineer / Scientist",
-        "company": "Kforce Inc",
-        "link": "https://www.linkedin.com/jobs/view/data-engineer-scientist-at-kforce-inc-4219146751?position=50&pageNum=0&refId=Jz5jteTQuhzMcnQGioMADQ%3D%3D&trackingId=RHiJf9ozXBHaqx4cpG1gXw%3D%3D",
-        "date": "2025-04-29T00:00:00.000Z"
+        "title": "Engineer, Big Data - Databricks/Python/SQL/Power BI - Remote",
+        "company": {
+          "companyName": "Jobs via Lensa",
+          "companyLink": "https://www.linkedin.com/company/lensa?trk=public_jobs_jserp-result_job-search-card-subtitle"
+        },
+        "link": "https://www.linkedin.com/jobs/view/engineer-big-data-databricks-python-sql-power-bi-remote-at-jobs-via-lensa-4218045269?position=50&pageNum=0&refId=BdnLT8ctOLxhMVav5GgD6A%3D%3D&trackingId=Qv02DjYHPoxipgRhFduLLw%3D%3D",
+        "date": "2025-04-30T00:00:00.000Z"
       }
     },
     {
       "51": {
-        "title": "Online Data Analyst",
-        "company": "TELUS Digital AI Data Solutions",
-        "link": "https://www.linkedin.com/jobs/view/online-data-analyst-at-telus-digital-ai-data-solutions-4219131205?position=51&pageNum=0&refId=Jz5jteTQuhzMcnQGioMADQ%3D%3D&trackingId=VcQbp5chHn8exIWOHN0YYw%3D%3D",
-        "date": "2025-04-29T00:00:00.000Z"
+        "title": "Engineer, Big Data - Databricks/Python/SQL/Power BI - Remote",
+        "company": {
+          "companyName": "Jobs via Lensa",
+          "companyLink": "https://www.linkedin.com/company/lensa?trk=public_jobs_jserp-result_job-search-card-subtitle"
+        },
+        "link": "https://www.linkedin.com/jobs/view/engineer-big-data-databricks-python-sql-power-bi-remote-at-jobs-via-lensa-4218038947?position=51&pageNum=0&refId=BdnLT8ctOLxhMVav5GgD6A%3D%3D&trackingId=gY8RzjZmzd7RgHHZ27IHOw%3D%3D",
+        "date": "2025-04-30T00:00:00.000Z"
       }
     },
     {
       "52": {
-        "title": "Business Systems Analyst, People & Legal Systems",
-        "company": "SeatGeek",
-        "link": "https://www.linkedin.com/jobs/view/business-systems-analyst-people-legal-systems-at-seatgeek-4202038900?position=52&pageNum=0&refId=Jz5jteTQuhzMcnQGioMADQ%3D%3D&trackingId=DgAmdslORoR0PosO%2Bsqh1Q%3D%3D",
+        "title": "Analytics Engineer",
+        "company": {
+          "companyName": "Kiteworks",
+          "companyLink": "https://www.linkedin.com/company/kiteworkscgcp?trk=public_jobs_jserp-result_job-search-card-subtitle"
+        },
+        "link": "https://www.linkedin.com/jobs/view/analytics-engineer-at-kiteworks-4217722571?position=52&pageNum=0&refId=BdnLT8ctOLxhMVav5GgD6A%3D%3D&trackingId=RliiB4AoLYtq5KrI246BPw%3D%3D",
         "date": "2025-04-29T00:00:00.000Z"
       }
     },
     {
       "53": {
-        "title": "Business Systems Analyst, People & Legal Systems",
-        "company": "SeatGeek",
-        "link": "https://www.linkedin.com/jobs/view/business-systems-analyst-people-legal-systems-at-seatgeek-4202038899?position=53&pageNum=0&refId=Jz5jteTQuhzMcnQGioMADQ%3D%3D&trackingId=pEz4oceYSF6LDNQK8Ua%2BiQ%3D%3D",
-        "date": "2025-04-29T00:00:00.000Z"
+        "title": "Engineer, Big Data - Databricks/Python/SQL/Power BI - Remote",
+        "company": {
+          "companyName": "Jobs via Lensa",
+          "companyLink": "https://www.linkedin.com/company/lensa?trk=public_jobs_jserp-result_job-search-card-subtitle"
+        },
+        "link": "https://www.linkedin.com/jobs/view/engineer-big-data-databricks-python-sql-power-bi-remote-at-jobs-via-lensa-4218038944?position=53&pageNum=0&refId=BdnLT8ctOLxhMVav5GgD6A%3D%3D&trackingId=ThRcRqX7Xv0gEuTzZBqCKQ%3D%3D",
+        "date": "2025-04-30T00:00:00.000Z"
       }
     },
     {
       "54": {
         "title": "Engineer, Big Data - Databricks/Python/SQL/Power BI - Remote",
-        "company": "Jobs via Lensa",
-        "link": "https://www.linkedin.com/jobs/view/engineer-big-data-databricks-python-sql-power-bi-remote-at-jobs-via-lensa-4217817132?position=54&pageNum=0&refId=Jz5jteTQuhzMcnQGioMADQ%3D%3D&trackingId=s%2FRwK6iUl1ckb%2BU43JupTg%3D%3D",
-        "date": "2025-04-29T00:00:00.000Z"
+        "company": {
+          "companyName": "Jobs via Lensa",
+          "companyLink": "https://www.linkedin.com/company/lensa?trk=public_jobs_jserp-result_job-search-card-subtitle"
+        },
+        "link": "https://www.linkedin.com/jobs/view/engineer-big-data-databricks-python-sql-power-bi-remote-at-jobs-via-lensa-4218041705?position=54&pageNum=0&refId=BdnLT8ctOLxhMVav5GgD6A%3D%3D&trackingId=SC0iRAPF7sDuxS7%2Bd8iCFQ%3D%3D",
+        "date": "2025-04-30T00:00:00.000Z"
       }
     },
     {
       "55": {
         "title": "Engineer, Big Data - Databricks/Python/SQL/Power BI - Remote",
-        "company": "Jobs via Lensa",
-        "link": "https://www.linkedin.com/jobs/view/engineer-big-data-databricks-python-sql-power-bi-remote-at-jobs-via-lensa-4217816313?position=55&pageNum=0&refId=Jz5jteTQuhzMcnQGioMADQ%3D%3D&trackingId=G%2BrJEztbiyVtNKcdgN6r3Q%3D%3D",
-        "date": "2025-04-29T00:00:00.000Z"
+        "company": {
+          "companyName": "Jobs via Lensa",
+          "companyLink": "https://www.linkedin.com/company/lensa?trk=public_jobs_jserp-result_job-search-card-subtitle"
+        },
+        "link": "https://www.linkedin.com/jobs/view/engineer-big-data-databricks-python-sql-power-bi-remote-at-jobs-via-lensa-4218042347?position=55&pageNum=0&refId=BdnLT8ctOLxhMVav5GgD6A%3D%3D&trackingId=%2B4zXrHTKGv%2BRRa4O38FY9g%3D%3D",
+        "date": "2025-04-30T00:00:00.000Z"
       }
     },
     {
       "56": {
-        "title": "Online Data Analyst",
-        "company": "TELUS Digital AI Data Solutions",
-        "link": "https://www.linkedin.com/jobs/view/online-data-analyst-at-telus-digital-ai-data-solutions-4219128568?position=56&pageNum=0&refId=Jz5jteTQuhzMcnQGioMADQ%3D%3D&trackingId=thGftnVxQcQYHl%2BJOrxP%2FQ%3D%3D",
-        "date": "2025-04-29T00:00:00.000Z"
+        "title": "Engineer, Big Data - Databricks/Python/SQL/Power BI - Remote",
+        "company": {
+          "companyName": "Jobs via Lensa",
+          "companyLink": "https://www.linkedin.com/company/lensa?trk=public_jobs_jserp-result_job-search-card-subtitle"
+        },
+        "link": "https://www.linkedin.com/jobs/view/engineer-big-data-databricks-python-sql-power-bi-remote-at-jobs-via-lensa-4218044278?position=56&pageNum=0&refId=BdnLT8ctOLxhMVav5GgD6A%3D%3D&trackingId=0LsEMkOhrBrVmdWslurLxw%3D%3D",
+        "date": "2025-04-30T00:00:00.000Z"
       }
     },
     {
       "57": {
-        "title": "Online Data Analyst",
-        "company": "TELUS Digital AI Data Solutions",
-        "link": "https://www.linkedin.com/jobs/view/online-data-analyst-at-telus-digital-ai-data-solutions-4219132240?position=57&pageNum=0&refId=Jz5jteTQuhzMcnQGioMADQ%3D%3D&trackingId=XGGO3JIUjg6X95s41iU%2FbQ%3D%3D",
-        "date": "2025-04-29T00:00:00.000Z"
+        "title": "Engineer, Big Data - Databricks/Python/SQL/Power BI - Remote",
+        "company": {
+          "companyName": "Jobs via Lensa",
+          "companyLink": "https://www.linkedin.com/company/lensa?trk=public_jobs_jserp-result_job-search-card-subtitle"
+        },
+        "link": "https://www.linkedin.com/jobs/view/engineer-big-data-databricks-python-sql-power-bi-remote-at-jobs-via-lensa-4218041643?position=57&pageNum=0&refId=BdnLT8ctOLxhMVav5GgD6A%3D%3D&trackingId=LHqopS9tf3dLiReDUNKNEg%3D%3D",
+        "date": "2025-04-30T00:00:00.000Z"
       }
     },
     {
       "58": {
-        "title": "Engineer, Big Data - Databricks/Python/SQL/Power BI - Remote",
-        "company": "Jobs via Lensa",
-        "link": "https://www.linkedin.com/jobs/view/engineer-big-data-databricks-python-sql-power-bi-remote-at-jobs-via-lensa-4217818038?position=58&pageNum=0&refId=Jz5jteTQuhzMcnQGioMADQ%3D%3D&trackingId=9FCUXOgKSvjWLBBtIEV2UA%3D%3D",
-        "date": "2025-04-29T00:00:00.000Z"
+        "title": "Research Data Analyst - PVD Group, Per Diem, Remote",
+        "company": {
+          "companyName": "Talentify.io",
+          "companyLink": "https://www.linkedin.com/company/talentify-io?trk=public_jobs_jserp-result_job-search-card-subtitle"
+        },
+        "link": "https://www.linkedin.com/jobs/view/research-data-analyst-pvd-group-per-diem-remote-at-talentify-io-4214539652?position=58&pageNum=0&refId=BdnLT8ctOLxhMVav5GgD6A%3D%3D&trackingId=jVwpGscOgxti36dhETz1LQ%3D%3D",
+        "date": "2025-04-30T00:00:00.000Z"
       }
     },
     {
       "59": {
         "title": "Engineer, Big Data - Databricks/Python/SQL/Power BI - Remote",
-        "company": "Jobs via Lensa",
-        "link": "https://www.linkedin.com/jobs/view/engineer-big-data-databricks-python-sql-power-bi-remote-at-jobs-via-lensa-4217814299?position=59&pageNum=0&refId=Jz5jteTQuhzMcnQGioMADQ%3D%3D&trackingId=9nxNJCV4FguRviqcL58atQ%3D%3D",
-        "date": "2025-04-29T00:00:00.000Z"
+        "company": {
+          "companyName": "Jobs via Lensa",
+          "companyLink": "https://www.linkedin.com/company/lensa?trk=public_jobs_jserp-result_job-search-card-subtitle"
+        },
+        "link": "https://www.linkedin.com/jobs/view/engineer-big-data-databricks-python-sql-power-bi-remote-at-jobs-via-lensa-4218039821?position=59&pageNum=0&refId=BdnLT8ctOLxhMVav5GgD6A%3D%3D&trackingId=IaHqVo1viVcM9cikc1L%2Fwg%3D%3D",
+        "date": "2025-04-30T00:00:00.000Z"
       }
     },
     {
       "60": {
         "title": "Engineer, Big Data - Databricks/Python/SQL/Power BI - Remote",
-        "company": "Jobs via Lensa",
-        "link": "https://www.linkedin.com/jobs/view/engineer-big-data-databricks-python-sql-power-bi-remote-at-jobs-via-lensa-4217811462?position=60&pageNum=0&refId=Jz5jteTQuhzMcnQGioMADQ%3D%3D&trackingId=VSpsAusmuxY5rJTPQB2xHA%3D%3D",
-        "date": "2025-04-29T00:00:00.000Z"
+        "company": {
+          "companyName": "Jobs via Lensa",
+          "companyLink": "https://www.linkedin.com/company/lensa?trk=public_jobs_jserp-result_job-search-card-subtitle"
+        },
+        "link": "https://www.linkedin.com/jobs/view/engineer-big-data-databricks-python-sql-power-bi-remote-at-jobs-via-lensa-4218040709?position=60&pageNum=0&refId=BdnLT8ctOLxhMVav5GgD6A%3D%3D&trackingId=uENB4GduAxFnxjMF8EmaNQ%3D%3D",
+        "date": "2025-04-30T00:00:00.000Z"
       }
     }
   ],
   "Junior Data Analyst": [],
-  "Data Analyst intern": [
-    {
-      "1": {
-        "title": "Data Analyst",
-        "company": "SFR Analytics",
-        "link": "https://www.linkedin.com/jobs/view/data-analyst-at-sfr-analytics-4216492834?position=1&pageNum=0&refId=Nfw3wIXtqy%2FUZIKQbW7xsg%3D%3D&trackingId=YkNNLU2TiJnxluVQoecM2w%3D%3D",
-        "date": "2025-04-28T00:00:00.000Z"
-      }
-    },
-    {
-      "2": {
-        "title": "Data Analyst (Healthcare Required) - CA ONLY - REMOTE",
-        "company": "Jobs via Lensa",
-        "link": "https://www.linkedin.com/jobs/view/data-analyst-healthcare-required-ca-only-remote-at-jobs-via-lensa-4217817221?position=2&pageNum=0&refId=Nfw3wIXtqy%2FUZIKQbW7xsg%3D%3D&trackingId=T%2FDWa3FkU%2F4bSgVWc0JCHg%3D%3D",
-        "date": "2025-04-29T00:00:00.000Z"
-      }
-    },
-    {
-      "3": {
-        "title": "Data Analyst",
-        "company": "Cardinal Health",
-        "link": "https://www.linkedin.com/jobs/view/data-analyst-at-cardinal-health-4217050616?position=3&pageNum=0&refId=Nfw3wIXtqy%2FUZIKQbW7xsg%3D%3D&trackingId=Pjz19Gy7%2BdT5D%2BrJ1XTwHQ%3D%3D",
-        "date": "2025-04-28T00:00:00.000Z"
-      }
-    },
-    {
-      "4": {
-        "title": "Insights Analyst",
-        "company": "NIQ for Retail",
-        "link": "https://www.linkedin.com/jobs/view/insights-analyst-at-niq-for-retail-4219071246?position=4&pageNum=0&refId=Nfw3wIXtqy%2FUZIKQbW7xsg%3D%3D&trackingId=cJ4L0aJiqhnDFgnTAOPuvA%3D%3D",
-        "date": "2025-04-28T00:00:00.000Z"
-      }
-    },
-    {
-      "5": {
-        "title": "Data Analyst (Healthcare Required) - CA ONLY - REMOTE",
-        "company": "Jobs via Lensa",
-        "link": "https://www.linkedin.com/jobs/view/data-analyst-healthcare-required-ca-only-remote-at-jobs-via-lensa-4217811475?position=5&pageNum=0&refId=Nfw3wIXtqy%2FUZIKQbW7xsg%3D%3D&trackingId=9xIm4duj0jYmk3SMEwVIxg%3D%3D",
-        "date": "2025-04-29T00:00:00.000Z"
-      }
-    },
-    {
-      "6": {
-        "title": "Data Analyst",
-        "company": "Trevonix Tech",
-        "link": "https://www.linkedin.com/jobs/view/data-analyst-at-trevonix-tech-4216887751?position=6&pageNum=0&refId=Nfw3wIXtqy%2FUZIKQbW7xsg%3D%3D&trackingId=Q6Lzmy0wDuBKmAMeaU77qQ%3D%3D",
-        "date": "2025-04-29T00:00:00.000Z"
-      }
-    },
-    {
-      "7": {
-        "title": "Data Analyst (Healthcare Required) - CA ONLY - REMOTE",
-        "company": "Jobs via Lensa",
-        "link": "https://www.linkedin.com/jobs/view/data-analyst-healthcare-required-ca-only-remote-at-jobs-via-lensa-4217810462?position=7&pageNum=0&refId=Nfw3wIXtqy%2FUZIKQbW7xsg%3D%3D&trackingId=AfpkloAA59prX41%2FXD51Fw%3D%3D",
-        "date": "2025-04-29T00:00:00.000Z"
-      }
-    },
-    {
-      "8": {
-        "title": "Data Analyst",
-        "company": "Cynera Tech",
-        "link": "https://www.linkedin.com/jobs/view/data-analyst-at-cynera-tech-4217550062?position=8&pageNum=0&refId=Nfw3wIXtqy%2FUZIKQbW7xsg%3D%3D&trackingId=2%2FCN46hgaPFCGBponp3rgw%3D%3D",
-        "date": "2025-04-29T00:00:00.000Z"
-      }
-    },
-    {
-      "9": {
-        "title": "RCM Data Analyst",
-        "company": "Netsmart",
-        "link": "https://www.linkedin.com/jobs/view/rcm-data-analyst-at-netsmart-4216842513?position=9&pageNum=0&refId=Nfw3wIXtqy%2FUZIKQbW7xsg%3D%3D&trackingId=u%2Be0fbh%2BZYAkIvlI%2Fkf7cQ%3D%3D",
-        "date": "2025-04-29T00:00:00.000Z"
-      }
-    },
-    {
-      "10": {
-        "title": "Insights Analyst",
-        "company": "GfK Boutique Research",
-        "link": "https://www.linkedin.com/jobs/view/insights-analyst-at-gfk-boutique-research-4219082804?position=10&pageNum=0&refId=Nfw3wIXtqy%2FUZIKQbW7xsg%3D%3D&trackingId=kBdEYrCTbJDN25DpePinkg%3D%3D",
-        "date": "2025-04-29T00:00:00.000Z"
-      }
-    },
-    {
-      "11": {
-        "title": "Data Analyst, Customer Success",
-        "company": "Greystar",
-        "link": "https://www.linkedin.com/jobs/view/data-analyst-customer-success-at-greystar-4160487113?position=11&pageNum=0&refId=Nfw3wIXtqy%2FUZIKQbW7xsg%3D%3D&trackingId=iporNcmX%2BIV8phDlJuuQeQ%3D%3D",
-        "date": "2025-04-29T00:00:00.000Z"
-      }
-    },
-    {
-      "12": {
-        "title": "Data Science & Analytics Internships – Academic Year 2025-2026",
-        "company": "NBCUniversal",
-        "link": "https://www.linkedin.com/jobs/view/data-science-analytics-internships-%E2%80%93-academic-year-2025-2026-at-nbcuniversal-4217060897?position=12&pageNum=0&refId=Nfw3wIXtqy%2FUZIKQbW7xsg%3D%3D&trackingId=fYdoQldIkJZ5IdA4jHQx9w%3D%3D",
-        "date": "2025-04-28T00:00:00.000Z"
-      }
-    },
-    {
-      "13": {
-        "title": "Oncology Data Analytics Analyst (SQL & Python) - Spain Remote",
-        "company": "Jobs via Lensa",
-        "link": "https://www.linkedin.com/jobs/view/oncology-data-analytics-analyst-sql-python-spain-remote-at-jobs-via-lensa-4217814207?position=13&pageNum=0&refId=Nfw3wIXtqy%2FUZIKQbW7xsg%3D%3D&trackingId=ETAfGuJJO6Jzzsa6AbDPVA%3D%3D",
-        "date": "2025-04-29T00:00:00.000Z"
-      }
-    },
-    {
-      "14": {
-        "title": "Business Intelligence Intern (Remote in California)",
-        "company": "Rocket Lawyer",
-        "link": "https://www.linkedin.com/jobs/view/business-intelligence-intern-remote-in-california-at-rocket-lawyer-4203759258?position=14&pageNum=0&refId=Nfw3wIXtqy%2FUZIKQbW7xsg%3D%3D&trackingId=xh9g1V4AopD2bmfb5wXKsQ%3D%3D",
-        "date": "2025-04-29T00:00:00.000Z"
-      }
-    },
-    {
-      "15": {
-        "title": "TIME Analyst I",
-        "company": "Tempus AI",
-        "link": "https://www.linkedin.com/jobs/view/time-analyst-i-at-tempus-ai-4219062509?position=15&pageNum=0&refId=Nfw3wIXtqy%2FUZIKQbW7xsg%3D%3D&trackingId=XWPqeh8yptE14zCgVpieRA%3D%3D",
-        "date": "2025-04-28T00:00:00.000Z"
-      }
-    },
-    {
-      "16": {
-        "title": "Business Intelligence Intern (Remote in Utah)",
-        "company": "Rocket Lawyer",
-        "link": "https://www.linkedin.com/jobs/view/business-intelligence-intern-remote-in-utah-at-rocket-lawyer-4203760083?position=16&pageNum=0&refId=Nfw3wIXtqy%2FUZIKQbW7xsg%3D%3D&trackingId=JVtOimSepNHikQcW%2B1bm0A%3D%3D",
-        "date": "2025-04-29T00:00:00.000Z"
-      }
-    },
-    {
-      "17": {
-        "title": "Business Intelligence Intern (Remote in Arizona)",
-        "company": "Rocket Lawyer",
-        "link": "https://www.linkedin.com/jobs/view/business-intelligence-intern-remote-in-arizona-at-rocket-lawyer-4203760082?position=17&pageNum=0&refId=Nfw3wIXtqy%2FUZIKQbW7xsg%3D%3D&trackingId=6kHebth%2FLuv%2BuSqsi88gmw%3D%3D",
-        "date": "2025-04-29T00:00:00.000Z"
-      }
-    },
-    {
-      "18": {
-        "title": "Business Intelligence Intern (Remote in North Carolina)",
-        "company": "Rocket Lawyer",
-        "link": "https://www.linkedin.com/jobs/view/business-intelligence-intern-remote-in-north-carolina-at-rocket-lawyer-4203758340?position=18&pageNum=0&refId=Nfw3wIXtqy%2FUZIKQbW7xsg%3D%3D&trackingId=8KijcO5vhgc5oF%2Fmv0QXKA%3D%3D",
-        "date": "2025-04-29T00:00:00.000Z"
-      }
-    },
-    {
-      "19": {
-        "title": "Linguistics Data Analyst - Remote - US",
-        "company": "Lightcast",
-        "link": "https://www.linkedin.com/jobs/view/linguistics-data-analyst-remote-us-at-lightcast-4217591721?position=19&pageNum=0&refId=Nfw3wIXtqy%2FUZIKQbW7xsg%3D%3D&trackingId=pceNQC9Zlc71IaoaPuzXHQ%3D%3D",
-        "date": "2025-04-29T00:00:00.000Z"
-      }
-    },
-    {
-      "20": {
-        "title": "Business Intelligence Intern (Remote in Colorado)",
-        "company": "Rocket Lawyer",
-        "link": "https://www.linkedin.com/jobs/view/business-intelligence-intern-remote-in-colorado-at-rocket-lawyer-4203755689?position=20&pageNum=0&refId=Nfw3wIXtqy%2FUZIKQbW7xsg%3D%3D&trackingId=Qy9GZ3v63tLoD%2FdurV4gTQ%3D%3D",
-        "date": "2025-04-29T00:00:00.000Z"
-      }
-    },
-    {
-      "21": {
-        "title": "REMOTE Quantitative Analyst",
-        "company": "Jobs via Lensa",
-        "link": "https://www.linkedin.com/jobs/view/remote-quantitative-analyst-at-jobs-via-lensa-4217818077?position=21&pageNum=0&refId=Nfw3wIXtqy%2FUZIKQbW7xsg%3D%3D&trackingId=R70VzcdMOdZT7f5rsFdniw%3D%3D",
-        "date": "2025-04-29T00:00:00.000Z"
-      }
-    },
-    {
-      "22": {
-        "title": "Data Engineer",
-        "company": "ROR",
-        "link": "https://www.linkedin.com/jobs/view/data-engineer-at-ror-4217399400?position=22&pageNum=0&refId=Nfw3wIXtqy%2FUZIKQbW7xsg%3D%3D&trackingId=OrWkxYIosD3rwJkDZdaTwg%3D%3D",
-        "date": "2025-04-29T00:00:00.000Z"
-      }
-    },
-    {
-      "23": {
-        "title": "Associate Data Analyst (Remote in Puerto Rico) - San Juan, PR",
-        "company": "Jobs via Lensa",
-        "link": "https://www.linkedin.com/jobs/view/associate-data-analyst-remote-in-puerto-rico-san-juan-pr-at-jobs-via-lensa-4217810520?position=23&pageNum=0&refId=Nfw3wIXtqy%2FUZIKQbW7xsg%3D%3D&trackingId=I93cOKXoyBTzzoD94Gj0Fg%3D%3D",
-        "date": "2025-04-29T00:00:00.000Z"
-      }
-    },
-    {
-      "24": {
-        "title": "Booking Analyst",
-        "company": "Business People Operations Associate",
-        "link": "https://www.linkedin.com/jobs/view/booking-analyst-at-business-people-operations-associate-4217861097?position=24&pageNum=0&refId=Nfw3wIXtqy%2FUZIKQbW7xsg%3D%3D&trackingId=%2FwgEcXLEUh7BkDF1x48ftg%3D%3D",
-        "date": "2025-04-29T00:00:00.000Z"
-      }
-    },
-    {
-      "25": {
-        "title": "Remote Engineer, Data, I",
-        "company": "Jobs via Lensa",
-        "link": "https://www.linkedin.com/jobs/view/remote-engineer-data-i-at-jobs-via-lensa-4217810500?position=25&pageNum=0&refId=Nfw3wIXtqy%2FUZIKQbW7xsg%3D%3D&trackingId=EspgFjXPSwtgvUtrtTwcFQ%3D%3D",
-        "date": "2025-04-29T00:00:00.000Z"
-      }
-    },
-    {
-      "26": {
-        "title": "Remote Engineer, Data, I",
-        "company": "Jobs via Lensa",
-        "link": "https://www.linkedin.com/jobs/view/remote-engineer-data-i-at-jobs-via-lensa-4217811503?position=26&pageNum=0&refId=Nfw3wIXtqy%2FUZIKQbW7xsg%3D%3D&trackingId=mxx5yztoLV483ABGC1D43w%3D%3D",
-        "date": "2025-04-29T00:00:00.000Z"
-      }
-    },
-    {
-      "27": {
-        "title": "Marketing Data Science Analyst",
-        "company": "Grand Canyon Education, Inc.",
-        "link": "https://www.linkedin.com/jobs/view/marketing-data-science-analyst-at-grand-canyon-education-inc-4217064314?position=27&pageNum=0&refId=Nfw3wIXtqy%2FUZIKQbW7xsg%3D%3D&trackingId=HIXeJrHtLU9QYT2dEImNag%3D%3D",
-        "date": "2025-04-28T00:00:00.000Z"
-      }
-    },
-    {
-      "28": {
-        "title": "Remote Engineer, Data, I",
-        "company": "Jobs via Lensa",
-        "link": "https://www.linkedin.com/jobs/view/remote-engineer-data-i-at-jobs-via-lensa-4217812422?position=28&pageNum=0&refId=Nfw3wIXtqy%2FUZIKQbW7xsg%3D%3D&trackingId=3zHzLYKVYBFaSu3yYaBFlg%3D%3D",
-        "date": "2025-04-29T00:00:00.000Z"
-      }
-    },
-    {
-      "29": {
-        "title": "Order Data Integrity Analyst (Contractor)",
-        "company": "Amplify",
-        "link": "https://www.linkedin.com/jobs/view/order-data-integrity-analyst-contractor-at-amplify-4216458789?position=29&pageNum=0&refId=Nfw3wIXtqy%2FUZIKQbW7xsg%3D%3D&trackingId=mRE5Aw1NXPoxZwKZ7qcBbg%3D%3D",
-        "date": "2025-04-28T00:00:00.000Z"
-      }
-    },
-    {
-      "30": {
-        "title": "Remote Engineer, Data, I",
-        "company": "Jobs via Lensa",
-        "link": "https://www.linkedin.com/jobs/view/remote-engineer-data-i-at-jobs-via-lensa-4217814345?position=30&pageNum=0&refId=Nfw3wIXtqy%2FUZIKQbW7xsg%3D%3D&trackingId=JfzSqaEtnv%2FTfdE3FSxg4A%3D%3D",
-        "date": "2025-04-29T00:00:00.000Z"
-      }
-    },
-    {
-      "31": {
-        "title": "Remote Engineer, Data, I",
-        "company": "Jobs via Lensa",
-        "link": "https://www.linkedin.com/jobs/view/remote-engineer-data-i-at-jobs-via-lensa-4217810474?position=31&pageNum=0&refId=Nfw3wIXtqy%2FUZIKQbW7xsg%3D%3D&trackingId=LZmqSdyLBcjAgM3GlVZ40Q%3D%3D",
-        "date": "2025-04-29T00:00:00.000Z"
-      }
-    },
-    {
-      "32": {
-        "title": "Remote Engineer, Data, I",
-        "company": "Jobs via Lensa",
-        "link": "https://www.linkedin.com/jobs/view/remote-engineer-data-i-at-jobs-via-lensa-4217814339?position=32&pageNum=0&refId=Nfw3wIXtqy%2FUZIKQbW7xsg%3D%3D&trackingId=qsMq1C3P9uwh6Fk7DOnHKA%3D%3D",
-        "date": "2025-04-29T00:00:00.000Z"
-      }
-    },
-    {
-      "33": {
-        "title": "Data and Analytics Consultant",
-        "company": "CVS Health",
-        "link": "https://www.linkedin.com/jobs/view/data-and-analytics-consultant-at-cvs-health-4217136979?position=33&pageNum=0&refId=Nfw3wIXtqy%2FUZIKQbW7xsg%3D%3D&trackingId=FSxFjAuC2EoMhXofIDoo7w%3D%3D",
-        "date": "2025-04-29T00:00:00.000Z"
-      }
-    },
-    {
-      "34": {
-        "title": "Remote Engineer, Data, I",
-        "company": "Jobs via Lensa",
-        "link": "https://www.linkedin.com/jobs/view/remote-engineer-data-i-at-jobs-via-lensa-4217817191?position=34&pageNum=0&refId=Nfw3wIXtqy%2FUZIKQbW7xsg%3D%3D&trackingId=5LR3ebNwAYZUw%2FJhZc0B7Q%3D%3D",
-        "date": "2025-04-29T00:00:00.000Z"
-      }
-    },
-    {
-      "35": {
-        "title": "Remote Engineer, Data, I",
-        "company": "Jobs via Lensa",
-        "link": "https://www.linkedin.com/jobs/view/remote-engineer-data-i-at-jobs-via-lensa-4217814342?position=35&pageNum=0&refId=Nfw3wIXtqy%2FUZIKQbW7xsg%3D%3D&trackingId=X9a62LVMWYhaJ4RA4uaMKg%3D%3D",
-        "date": "2025-04-29T00:00:00.000Z"
-      }
-    },
-    {
-      "36": {
-        "title": "Statistical Data Analyst II (Remote) - Infectious Diseases",
-        "company": "Washington University in St. Louis",
-        "link": "https://www.linkedin.com/jobs/view/statistical-data-analyst-ii-remote-infectious-diseases-at-washington-university-in-st-louis-4216814998?position=36&pageNum=0&refId=Nfw3wIXtqy%2FUZIKQbW7xsg%3D%3D&trackingId=9QZ0Icp1twqa4V7Gzw1jgA%3D%3D",
-        "date": "2025-04-29T00:00:00.000Z"
-      }
-    },
-    {
-      "37": {
-        "title": "Online Data Analyst",
-        "company": "TELUS Digital AI Data Solutions",
-        "link": "https://www.linkedin.com/jobs/view/online-data-analyst-at-telus-digital-ai-data-solutions-4219129405?position=37&pageNum=0&refId=Nfw3wIXtqy%2FUZIKQbW7xsg%3D%3D&trackingId=eToNJAqc1XF%2F3gwD%2FfQETA%3D%3D",
-        "date": "2025-04-29T00:00:00.000Z"
-      }
-    },
-    {
-      "38": {
-        "title": "Data Engineer",
-        "company": "dentsu",
-        "link": "https://www.linkedin.com/jobs/view/data-engineer-at-dentsu-4216802221?position=38&pageNum=0&refId=Nfw3wIXtqy%2FUZIKQbW7xsg%3D%3D&trackingId=QhFyVyeFMr186sQ0Lzsarg%3D%3D",
-        "date": "2025-04-28T00:00:00.000Z"
-      }
-    },
-    {
-      "39": {
-        "title": "Online Data Analyst",
-        "company": "TELUS Digital AI Data Solutions",
-        "link": "https://www.linkedin.com/jobs/view/online-data-analyst-at-telus-digital-ai-data-solutions-4219136213?position=39&pageNum=0&refId=Nfw3wIXtqy%2FUZIKQbW7xsg%3D%3D&trackingId=sauWpCrAJWP9h3tchX7mOA%3D%3D",
-        "date": "2025-04-29T00:00:00.000Z"
-      }
-    },
-    {
-      "40": {
-        "title": "Remote Engineer, Data, I",
-        "company": "Jobs via Lensa",
-        "link": "https://www.linkedin.com/jobs/view/remote-engineer-data-i-at-jobs-via-lensa-4217811558?position=40&pageNum=0&refId=Nfw3wIXtqy%2FUZIKQbW7xsg%3D%3D&trackingId=eARVXfE0VG4JWG9jux6wNQ%3D%3D",
-        "date": "2025-04-29T00:00:00.000Z"
-      }
-    },
-    {
-      "41": {
-        "title": "Remote Engineer, Data, I",
-        "company": "Jobs via Lensa",
-        "link": "https://www.linkedin.com/jobs/view/remote-engineer-data-i-at-jobs-via-lensa-4217810486?position=41&pageNum=0&refId=Nfw3wIXtqy%2FUZIKQbW7xsg%3D%3D&trackingId=JG0ariP4j6NONSLWAaUBLQ%3D%3D",
-        "date": "2025-04-29T00:00:00.000Z"
-      }
-    },
-    {
-      "42": {
-        "title": "Data Visualization Designer / Presentation Designer",
-        "company": "Planet Interactive",
-        "link": "https://www.linkedin.com/jobs/view/data-visualization-designer-presentation-designer-at-planet-interactive-4219035697?position=42&pageNum=0&refId=Nfw3wIXtqy%2FUZIKQbW7xsg%3D%3D&trackingId=QMrsWzfRlKi9d87UN94Miw%3D%3D",
-        "date": "2025-04-28T00:00:00.000Z"
-      }
-    },
-    {
-      "43": {
-        "title": "Online Data Analyst",
-        "company": "TELUS Digital AI Data Solutions",
-        "link": "https://www.linkedin.com/jobs/view/online-data-analyst-at-telus-digital-ai-data-solutions-4219131205?position=43&pageNum=0&refId=Nfw3wIXtqy%2FUZIKQbW7xsg%3D%3D&trackingId=FYVDkbcWRr5f2zELqWlNTg%3D%3D",
-        "date": "2025-04-29T00:00:00.000Z"
-      }
-    },
-    {
-      "44": {
-        "title": "Data Engineer",
-        "company": "Scamnetic",
-        "link": "https://www.linkedin.com/jobs/view/data-engineer-at-scamnetic-4219120160?position=44&pageNum=0&refId=Nfw3wIXtqy%2FUZIKQbW7xsg%3D%3D&trackingId=U%2BWxnKeicOrPbmqOV9leHg%3D%3D",
-        "date": "2025-04-29T00:00:00.000Z"
-      }
-    },
-    {
-      "45": {
-        "title": "Online Data Analyst",
-        "company": "TELUS Digital AI Data Solutions",
-        "link": "https://www.linkedin.com/jobs/view/online-data-analyst-at-telus-digital-ai-data-solutions-4219134153?position=45&pageNum=0&refId=Nfw3wIXtqy%2FUZIKQbW7xsg%3D%3D&trackingId=4PbiTV%2BCDw5CSQ%2FpPY15yA%3D%3D",
-        "date": "2025-04-29T00:00:00.000Z"
-      }
-    },
-    {
-      "46": {
-        "title": "Online Data Analyst",
-        "company": "TELUS Digital AI Data Solutions",
-        "link": "https://www.linkedin.com/jobs/view/online-data-analyst-at-telus-digital-ai-data-solutions-4219127584?position=46&pageNum=0&refId=Nfw3wIXtqy%2FUZIKQbW7xsg%3D%3D&trackingId=TQIEoe%2F19mmFDAS9IKi5pw%3D%3D",
-        "date": "2025-04-29T00:00:00.000Z"
-      }
-    },
-    {
-      "47": {
-        "title": "Online Data Analyst",
-        "company": "TELUS Digital AI Data Solutions",
-        "link": "https://www.linkedin.com/jobs/view/online-data-analyst-at-telus-digital-ai-data-solutions-4219128568?position=47&pageNum=0&refId=Nfw3wIXtqy%2FUZIKQbW7xsg%3D%3D&trackingId=wgT9D2yNyrBV2POLByY2Yw%3D%3D",
-        "date": "2025-04-29T00:00:00.000Z"
-      }
-    },
-    {
-      "48": {
-        "title": "Online Data Analyst",
-        "company": "TELUS Digital AI Data Solutions",
-        "link": "https://www.linkedin.com/jobs/view/online-data-analyst-at-telus-digital-ai-data-solutions-4219132240?position=48&pageNum=0&refId=Nfw3wIXtqy%2FUZIKQbW7xsg%3D%3D&trackingId=tY%2BA%2Bemdi7Ta%2F76Q8dW10Q%3D%3D",
-        "date": "2025-04-29T00:00:00.000Z"
-      }
-    },
-    {
-      "49": {
-        "title": "Online Data Analyst",
-        "company": "TELUS Digital AI Data Solutions",
-        "link": "https://www.linkedin.com/jobs/view/online-data-analyst-at-telus-digital-ai-data-solutions-4219126830?position=49&pageNum=0&refId=Nfw3wIXtqy%2FUZIKQbW7xsg%3D%3D&trackingId=UXvI2M4Uqjh4JbXZevI64A%3D%3D",
-        "date": "2025-04-29T00:00:00.000Z"
-      }
-    },
-    {
-      "50": {
-        "title": "Online Data Analyst",
-        "company": "TELUS Digital AI Data Solutions",
-        "link": "https://www.linkedin.com/jobs/view/online-data-analyst-at-telus-digital-ai-data-solutions-4219138065?position=50&pageNum=0&refId=Nfw3wIXtqy%2FUZIKQbW7xsg%3D%3D&trackingId=JJPeNNyVxSzi2LZ4wMNwlg%3D%3D",
-        "date": "2025-04-29T00:00:00.000Z"
-      }
-    },
-    {
-      "51": {
-        "title": "Online Data Analyst",
-        "company": "TELUS Digital AI Data Solutions",
-        "link": "https://www.linkedin.com/jobs/view/online-data-analyst-at-telus-digital-ai-data-solutions-4219126794?position=51&pageNum=0&refId=Nfw3wIXtqy%2FUZIKQbW7xsg%3D%3D&trackingId=FVRnvFg7aCGq3hivkeVcYQ%3D%3D",
-        "date": "2025-04-29T00:00:00.000Z"
-      }
-    },
-    {
-      "52": {
-        "title": "Online Data Analyst",
-        "company": "TELUS Digital AI Data Solutions",
-        "link": "https://www.linkedin.com/jobs/view/online-data-analyst-at-telus-digital-ai-data-solutions-4219135205?position=52&pageNum=0&refId=Nfw3wIXtqy%2FUZIKQbW7xsg%3D%3D&trackingId=%2BLcPbyEp7o8aWjX9gS0jpg%3D%3D",
-        "date": "2025-04-29T00:00:00.000Z"
-      }
-    },
-    {
-      "53": {
-        "title": "Online Data Analyst",
-        "company": "TELUS Digital AI Data Solutions",
-        "link": "https://www.linkedin.com/jobs/view/online-data-analyst-at-telus-digital-ai-data-solutions-4217853843?position=53&pageNum=0&refId=Nfw3wIXtqy%2FUZIKQbW7xsg%3D%3D&trackingId=n3j4yvdFkU9PULYDynRTEA%3D%3D",
-        "date": "2025-04-29T00:00:00.000Z"
-      }
-    },
-    {
-      "54": {
-        "title": "Online Data Analyst",
-        "company": "TELUS Digital AI Data Solutions",
-        "link": "https://www.linkedin.com/jobs/view/online-data-analyst-at-telus-digital-ai-data-solutions-4217852913?position=54&pageNum=0&refId=Nfw3wIXtqy%2FUZIKQbW7xsg%3D%3D&trackingId=0g%2BFK4TGuQ3c2ng5Aw5Ceg%3D%3D",
-        "date": "2025-04-29T00:00:00.000Z"
-      }
-    },
-    {
-      "55": {
-        "title": "Online Data Analyst",
-        "company": "TELUS Digital AI Data Solutions",
-        "link": "https://www.linkedin.com/jobs/view/online-data-analyst-at-telus-digital-ai-data-solutions-4219132465?position=55&pageNum=0&refId=Nfw3wIXtqy%2FUZIKQbW7xsg%3D%3D&trackingId=tUnXhqbj7TCFEuIiu%2BOCNQ%3D%3D",
-        "date": "2025-04-29T00:00:00.000Z"
-      }
-    },
-    {
-      "56": {
-        "title": "Online Data Analyst",
-        "company": "TELUS Digital AI Data Solutions",
-        "link": "https://www.linkedin.com/jobs/view/online-data-analyst-at-telus-digital-ai-data-solutions-4219133213?position=56&pageNum=0&refId=Nfw3wIXtqy%2FUZIKQbW7xsg%3D%3D&trackingId=03KcMZwff7nBisCtnr8o%2Fg%3D%3D",
-        "date": "2025-04-29T00:00:00.000Z"
-      }
-    },
-    {
-      "57": {
-        "title": "Online Data Analyst",
-        "company": "TELUS Digital AI Data Solutions",
-        "link": "https://www.linkedin.com/jobs/view/online-data-analyst-at-telus-digital-ai-data-solutions-4219136206?position=57&pageNum=0&refId=Nfw3wIXtqy%2FUZIKQbW7xsg%3D%3D&trackingId=zG4hpzvI713Y491%2BEKPqGA%3D%3D",
-        "date": "2025-04-29T00:00:00.000Z"
-      }
-    },
-    {
-      "58": {
-        "title": "Online Data Analyst",
-        "company": "TELUS Digital AI Data Solutions",
-        "link": "https://www.linkedin.com/jobs/view/online-data-analyst-at-telus-digital-ai-data-solutions-4219134180?position=58&pageNum=0&refId=Nfw3wIXtqy%2FUZIKQbW7xsg%3D%3D&trackingId=ElWV6MwpdmyamPCYTbou9g%3D%3D",
-        "date": "2025-04-29T00:00:00.000Z"
-      }
-    },
-    {
-      "59": {
-        "title": "Certinia PSA & Analytics Consultant",
-        "company": "TEKsystems",
-        "link": "https://www.linkedin.com/jobs/view/certinia-psa-analytics-consultant-at-teksystems-4219090954?position=59&pageNum=0&refId=Nfw3wIXtqy%2FUZIKQbW7xsg%3D%3D&trackingId=6bXLGlkCmyEyghUQ%2Fu4MJQ%3D%3D",
-        "date": "2025-04-29T00:00:00.000Z"
-      }
-    },
-    {
-      "60": {
-        "title": "Online Data Analyst",
-        "company": "TELUS Digital AI Data Solutions",
-        "link": "https://www.linkedin.com/jobs/view/online-data-analyst-at-telus-digital-ai-data-solutions-4219130448?position=60&pageNum=0&refId=Nfw3wIXtqy%2FUZIKQbW7xsg%3D%3D&trackingId=BfjVnYgEfq%2BDyLu4EMY32w%3D%3D",
-        "date": "2025-04-29T00:00:00.000Z"
-      }
-    }
-  ]
+  "Data Analyst intern": []
 }
