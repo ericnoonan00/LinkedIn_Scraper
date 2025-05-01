@@ -117,14 +117,14 @@ export async function scrapeLinkedIn() {
   const data = JSON.stringify(RESULTS, null, 2)
   // delete the last saved data
   if (fs.existsSync('../json/searchresults.json'))
-    fs.unlink("../json/searchresults.json", (err) => {
+    fs.unlink('../json/searchresults.json', (err) => {
       if (err) {
         console.error(err);
         throw err
       }
     })
   // save the new data
-  await fs.writeFile("../json/searchresults.json", data, (err) => {
+  await fs.writeFile('../json/searchresults.json', data, (err) => {
     if (err) {
       console.error(err);
       throw err
