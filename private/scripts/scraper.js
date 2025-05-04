@@ -87,6 +87,7 @@ async function scrapeLinkedIn() {
         // console.log(company);
       }
 
+      // i suppose that if we filter by last 24hrs, it's all just gonna be todays date.
       const postedDate = new Date(
         await info
           .locator('.base-search-card__metadata')
@@ -138,6 +139,6 @@ export async function writeLinkedInResults() {
 }
 
 /* -- MAIN -- */
-(async () => {
-  scrapeLinkedIn()
-})();
+// (async () => {
+//   scrapeLinkedIn()
+// })();
