@@ -1,5 +1,31 @@
 {
   "dependencies": {
     "playwright": "^1.52.0"
-  }
+  },
+  "name": "linkedin_scraper",
+  "version": "1.0.0",
+  "description": "scrapes linkedin for jobs",
+  "main": "index.js",
+  "type": "module",
+  "devDependencies": {},
+  "scripts": {
+    "test": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ericnoonan00/LinkedIn_Scraper.git"
+  },
+  "keywords": [
+    "scraper",
+    "web-scraper",
+    "jobs",
+    "job",
+    "job-scraper"
+  ],
+  "author": "Eric Noonan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ericnoonan00/LinkedIn_Scraper/issues"
+  },
+  "homepage": "https://github.com/ericnoonan00/LinkedIn_Scraper#readme"
 }

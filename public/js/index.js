@@ -1,5 +1,5 @@
-import { scrapeLinkedIn } from "../../private/scripts/scraper";
+import { writeLinkedInResults } from "../../private/scripts/scraper.js";
 
-window.queryLinkedIn = async () => {
-  await scrapeLinkedIn()
-}
+(() => {
+  writeLinkedInResults()
+})()

@@ -1,5 +1,5 @@
 import { chromium } from 'playwright';
-import fs, { existsSync } from 'fs';
+import fs from 'fs';
 
 // I am going to use playwright to scrape linkedin, then post my results to one page where i can sift through and apply
 
