@@ -94,7 +94,7 @@ async function scrapeLinkedIn() {
           .locator('time')
           .getAttribute('datetime')
       )
-      console.log(postedDate);
+      // console.log(postedDate);
 
       RESULTS[searchQuery].push(
         {
