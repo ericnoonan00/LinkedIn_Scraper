@@ -1,5 +1,5 @@
 import { chromium } from 'playwright';
-import fs from 'fs';
+import fs, { existsSync } from 'fs';
 
 // I am going to use playwright to scrape linkedin, then post my results to one page where i can sift through and apply
 
@@ -15,7 +15,7 @@ const SEARCHES = [
 const RESULTS = {}
 
 // functions
-export async function scrapeLinkedIn() {
+async function scrapeLinkedIn() {
   for (let i = 0; i < SEARCHES.length; i++) {
 
     const searchQuery = SEARCHES[i];
@@ -93,7 +93,7 @@ export async function scrapeLinkedIn() {
           .locator('time')
           .getAttribute('datetime')
       )
-      // console.log(postedDate);
+      console.log(postedDate);
 
       RESULTS[searchQuery].push(
         {
@@ -113,23 +113,28 @@ export async function scrapeLinkedIn() {
   console.log(RESULTS);
   // console.log(JSON.stringify(RESULTS));
 
+  return RESULTS;
+
   // Save results to a JSON file to be read by the webpage
-  const data = JSON.stringify(RESULTS, null, 2)
-  // delete the last saved data
-  if (fs.existsSync('../json/searchresults.json'))
-    fs.unlink('../json/searchresults.json', (err) => {
-      if (err) {
-        console.error(err);
-        throw err
-      }
-    })
-  // save the new data
-  await fs.writeFile('../json/searchresults.json', data, (err) => {
-    if (err) {
-      console.error(err);
-      throw err
-    }
-  })
+}
+
+export async function writeLinkedInResults() {
+  const data = await scrapeLinkedIn()
+  const json = JSON.stringify(data, null, 2)
+
+  //path to be called in public/index.js
+  const path = '../../private/json/'
+  const file = path + 'searchresults.json'
+  try {
+    if (!fs.existsSync(path))
+      fs.mkdirSync(path)
+    if (fs.existsSync(file))
+      fs.unlinkSync(file)
+    fs.writeFileSync(file, json, { flag: 'w+' })
+  } catch (err) {
+    console.error(err);
+    throw new Error(err)
+  }
 }
 
 /* -- MAIN -- */
