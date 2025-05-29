@@ -111,7 +111,7 @@ async function scrapeLinkedIn() {
     await browser.close();
   }
 
-  console.log(RESULTS);
+  // console.log(RESULTS);
   // console.log(JSON.stringify(RESULTS));
 
   return RESULTS;
