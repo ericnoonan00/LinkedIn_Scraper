@@ -26,7 +26,7 @@ async function scrapeLinkedIn() {
     /** -- a little funk with going to linked in on incognito mode -- **/
     // IN ORDER TO AVOID REDIRECT(since no solution seems to exist)
     // RE OPEN THE BROWSER EVERY
-    const browser = await chromium.launch({ headless: false });
+    const browser = await chromium.launch({ headless: true });
     const context = await browser.newContext();
     const page = await context.newPage();
     await page.goto(searchUrl)
