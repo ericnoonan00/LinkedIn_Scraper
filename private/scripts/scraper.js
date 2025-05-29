@@ -139,6 +139,6 @@ export async function writeLinkedInResults() {
 }
 
 /* -- MAIN -- */
-// (async () => {
-//   scrapeLinkedIn()
-// })();
+(async () => {
+  writeLinkedInResults(scrapeLinkedIn())
+})();
