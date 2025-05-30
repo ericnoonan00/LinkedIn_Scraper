@@ -119,7 +119,7 @@ async function scrapeLinkedIn() {
   // Save results to a JSON file to be read by the webpage
 }
 
-export async function writeLinkedInResults() {
+async function writeLinkedInResults() {
   const data = await scrapeLinkedIn()
   const json = JSON.stringify(data, null, 2)
 
@@ -131,7 +131,9 @@ export async function writeLinkedInResults() {
       fs.mkdirSync(path)
     if (fs.existsSync(file))
       fs.unlinkSync(file)
+    console.log('writing to json...')
     fs.writeFileSync(file, json, { flag: 'w+' })
+    console.log('wrote to json @', file)
   } catch (err) {
     console.error(err);
     throw new Error(err)
@@ -140,5 +142,5 @@ export async function writeLinkedInResults() {
 
 /* -- MAIN -- */
 (async () => {
-  writeLinkedInResults(scrapeLinkedIn())
+  writeLinkedInResults()
 })();
