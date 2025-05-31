@@ -129,8 +129,8 @@ async function writeLinkedInResults() {
   try {
     if (!fs.existsSync(path))
       fs.mkdirSync(path)
-    if (fs.existsSync(file))
-      fs.unlinkSync(file)
+    fs.unlinkSync(file)
+
     console.log('writing to json...')
     fs.writeFileSync(file, json, { flag: 'w+' })
     console.log('wrote to json @', file)
